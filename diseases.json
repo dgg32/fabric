@@ -1,0 +1,451 @@
+{"disease_id":"H00001","disease_name":["B-cell precursor acute lymphoblastic leukemia (Philadelphia chromosome negative)","B-cell acute lymphoblastic leukemia","B-cell precursor acute lymphoblastic leukemia","Acute lymphoblastic leukemia (T315I positive, Philadelphia chromosome positive)","Acute lymphoblastic leukemia (Philadelphia chromosome positive)"]}
+{"disease_id":"H00002","disease_name":["T-cell acute lymphoblastic leukemia","T-cell lymphoblastic lymphoma"]}
+{"disease_id":"H00003","disease_name":["Acute myeloid leukemia","Acute nonlymphocytic leukemias","Acute nonlymphocytic leukemia, myelogenous","Acute myeloid leukemia (susceptible IDH1 mutation)","Acute myeloblastic leukemia","Acute myeloid leukemia (FLT3 internal tandem duplication)","Acute myeloid leukemia (CD33 positive)","Acute myeloid leukemia (FLT3 mutation positive)","Acute myelogenous leukemia","Acute myeloid leukemia (IDH2 mutation positive)"]}
+{"disease_id":"H00004","disease_name":["Chronic myelocytic leukemia","Chronic myeloid leukemia (Philadelphia chromosome positive)","Chronic myeloid leukemia","Chronic myelogenous leukemia","Chronic myelogenous leukemia (Philadelphia chromosome positive)","Chronic myeloid leukemia (mutation positive)","Chronic myeloid leukemia (T315I positive)","Chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia"]}
+{"disease_id":"H00005","disease_name":["Chronic lymphocytic leukemia","Chronic lymphocytic leukemia (CD20 positive)","Chronic lymphatic (lymphocytic) leukemia","B-cell chronic lymphocytic leukemia","Chronic lymphocytic leukemia (chromosome 17p deletion)","Chronic lymphocytic leukemia\/ small lymphocytic lymphoma"]}
+{"disease_id":"H00006","disease_name":["Hairy cell leukemia","Hairy-cell leukemia"]}
+{"disease_id":"H00007","disease_name":["Hodgkin's disease","Hodgkin's lymphoma","Hodgkin lymphoma"]}
+{"disease_id":"H00008","disease_name":["Burkitt lymphoma","High-grade B-cell lymphoma"]}
+{"disease_id":"H00010","disease_name":["Multiple myeloma"]}
+{"disease_id":"H00011","disease_name":["Waldenstr\u00f6m's macroglobulinemia"]}
+{"disease_id":"H00012","disease_name":["Polycythemia vera"]}
+{"disease_id":"H00013","disease_name":["Small cell lung cancer"]}
+{"disease_id":"H00014","disease_name":["Non-squamous non-small cell lung cancer","Non-small cell lung cancer (EGFR mutation positive)","Non-small cell lung cance","Non-small cell lung cancer (KRAS G12C mutated)","Non-small cell lung cancer (ALK positive)","Non-small cell lung cancer (EGFR exon 20 insertion)","Non-small cell lung cancer (RET fusion positive)","Non-small cell lung cancer","Non-small cell lung cancer (MET exon 14 skipping)","Non-small cell lung cancer (HER2 mutant)","Non-small cell lung cancer (ROS1 positive)","Squamous non-small cell lung cancer","Non-small cell lung cancer (BRAF mutation positive)","Non-small cell lung cancer (EGFR exon 20 insertion mutation)","Non-small cell lung cancer (MET exon 14 skipping positive)","Non-small cell lung cancer (EGFR exon 19 deletions or exon 21 (L858R) substitution mutated)","Non-small cell lung cancer (PD-L1 expressed)","Non-small cell lung cancer (ALK or ROS1 positive)"]}
+{"disease_id":"H00015","disease_name":["Malignant pleural mesothelioma","Mesothelioma"]}
+{"disease_id":"H00017","disease_name":["Esophageal adenocarcinoma","Esophageal cancer","Esophageal squamous cell carcinoma","Esophageal cancer (PD-L1 expressed)"]}
+{"disease_id":"H00018","disease_name":["Gastric cancer","Gastric adenocarcinoma","Gastric cancer (HER2 positive)","Gastric or gastroesophageal junction adenocarcinoma (HER2 negative, claudin 18.2 positive)","Gastric cancer (HER2 overexpressing)","Gastric carcinoma"]}
+{"disease_id":"H00019","disease_name":["Adenocarcinoma of the pancreas","Pancreatic cancer","Pancreatic adenocarcinoma (BRCA mutated)"]}
+{"disease_id":"H00020","disease_name":["Colorectal cancer","Carcinoma of the colon or rectum","Colorectal cancer (KRAS G12C mutated)","Colorectal cancer (MSI-H or dMMR)","Colorectal cancer (BRAF mutation positive)","Colorectal cancer (KRAS and NRAS wild type)","Colon cancer","Colorectal cancer (MSI-H)","Colorectal cancer (K-Ras wild type, EGFR-expressing)"]}
+{"disease_id":"H00021","disease_name":["Renal cell carcinoma","Renal carcinoma"]}
+{"disease_id":"H00022","disease_name":["Papillary carcinoma of the urinary bladder","Carcinoma in situ of the urinary bladder","Urothelial cancer","Urothelial carcinoma","Bladder cancer","Transitional cell bladder carcinoma","Urothelial carcinoma (FGFR3 or FGFR2 genetic alterations)","Urothelial carcinoma (PD-L1 expressed)","Upper tract urothelial cancer"]}
+{"disease_id":"H00023","disease_name":["Testicular tumors","Testicular cancer","Carcinoma of the testis","Testicular carcinoma"]}
+{"disease_id":"H00024","disease_name":["Prostate cancer (PSMA positive)","Advanced androgen-dependent carcinoma of the prostate","Prostate cancer, castration-resistant","prostate cancer","Carcinoma of the prostate","Prostate cancer","Prostate cancer, castration-resistant (HRR gene mutated)","Prostatic carcinoma","Prostate cancer, castration-resistant (BRCA mutated)","Prostate Cancer","Prostate cancer, castrate-resistant","Prostate Carcinoma","Prostate cancer, castration-sensitive"]}
+{"disease_id":"H00026","disease_name":["Endometrial carcinoma","Endometrial cancer","Endometrial carcinoma (MSI-H or dMMR)"]}
+{"disease_id":"H00027","disease_name":["Epithelial ovarian cancer","Ovarian tumors","Ovarian cancer","Epithelial ovarian cancer (folate receptor alpha positive)","Ovarian cancer (BRCA mutated)","Ovarian carcinoma","Adenocarcinoma of the ovary","Carcinoma of the ovary","Ovarian cancer (HRD positive)"]}
+{"disease_id":"H00028","disease_name":["Choriocarcinoma"]}
+{"disease_id":"H00029","disease_name":["Vulvar cancer","Basal cell carcinoma"]}
+{"disease_id":"H00030","disease_name":["Cervical cancer","Cervical cancer (PD-L1 expressed)"]}
+{"disease_id":"H00031","disease_name":["Mmmary cancer","Breast cancer","Breast cancer (HER2 positive)","Breast cancer (HR positive, HER2 negative, PIK3CA mutated)","Breast cancer (triple negative)","Breast cancer (HER2 low)","Breast cancer, postmenopausal (ER positive)","Breast cancer (HER2 overexpressing or ER\/PR negative)","Breast cancer (BRCA mutated, HER2 negative)","Breast cancer (HR positive, HER2 negative)","Breast cancer, postmenopausal (HR positive, HER2 negative)","Breast cancer (PD-L1 expressed, HR negative, HER2 negative)","Breast cancer (ER positive)","Breast cancer, postmenopausal (HR positive)","Breast cancer (ER\/ PR negative)","Breast cancer, postmenopausal (HR positive or HR unknown)","Carcinoma of the breast","Breast cancer (HER2 overexpressing)","Breast cancer (HR positive, HER2 negative, PIK3CA\/AKT1\/PTEN mutated)","Breast cancer (triple negative, PD-L1 expressed)","Breast cancer (ER positive, HER2 negative, ESR1 mutated)","Mammary cancer"]}
+{"disease_id":"H00032","disease_name":["Thyroid carcinoma","Thyroid cancer (RET fusion positive)","Thyroid cancer","Differentiated thyroid cancer","Anaplastic thyroid cancer (BRAF mutation positive)"]}
+{"disease_id":"H00033","disease_name":["Adrenal cortical carcinoma"]}
+{"disease_id":"H00034","disease_name":["Carcinoid tumors","Carcinoid syndrome"]}
+{"disease_id":"H00035","disease_name":["Ewings sarcoma"]}
+{"disease_id":"H00036","disease_name":["Osteosarcoma"]}
+{"disease_id":"H00037","disease_name":["Rhabdomyosarcoma"]}
+{"disease_id":"H00038","disease_name":["Melanoma","Malignant melanoma","Melanoma (BRAF mutation positive)","Melanoma (BRAF V600 mutation positive)","Uveal melanoma (HLA-A*02:01 positive)"]}
+{"disease_id":"H00039","disease_name":["Basal cell carcinoma","Superficial basal cell carcinomas"]}
+{"disease_id":"H00040","disease_name":["Squamous cell carcinoma","Cutaneous squamous cell carcinoma"]}
+{"disease_id":"H00041","disease_name":["AIDS-related Kaposi's sarcoma","Kaposi's sarcoma"]}
+{"disease_id":"H00042","disease_name":["Glioblastoma","Glioma","Anaplastic astrocytoma","Astrocytoma (susceptible IDH1 or IDH2 mutation)","Oligodendroglioma (susceptible IDH1 or IDH2 mutation)","Ependymoma","Astrocytoma"]}
+{"disease_id":"H00043","disease_name":["Neuroblastoma"]}
+{"disease_id":"H00044","disease_name":["Anal cancer"]}
+{"disease_id":"H00045","disease_name":["Gastroenteropancreatic neuroendocrine tumors (somatostatin receptor positive)","Pancreatic neuroendocrine tumor","Islet cell carcinoma of the pancreas","Gastroenteropancreatic neuroendocrine tumors"]}
+{"disease_id":"H00046","disease_name":["Cholangiocarcinoma (susceptible IDH1 mutation)","Cholangiocarcinoma (FGFR2 fusion positive)","Cholangiocarcinoma (FGFR2 gene fusion)","Cholangiocarcinoma (FGFR2 fusion or other rearrangement)"]}
+{"disease_id":"H00048","disease_name":["Hepatocellular carcinoma"]}
+{"disease_id":"H00054","disease_name":["Nasopharyngeal carcinoma"]}
+{"disease_id":"H00056","disease_name":["Dementia of the Alzheimer's type","Alzheimer's disease"]}
+{"disease_id":"H00057","disease_name":["Parkinson's disease","Parkinson disease"]}
+{"disease_id":"H00058","disease_name":["Amyotrophic lateral sclerosis","Amyotrophic lateral sclerosis (SOD1 mutated)"]}
+{"disease_id":"H00059","disease_name":["Huntington's disease"]}
+{"disease_id":"H00067","disease_name":["Friedreich's ataxia"]}
+{"disease_id":"H00079","disease_name":["Asthma, eosinophilic phenotype","Chronic asthma","Bronchial asthma","Asthma"]}
+{"disease_id":"H00080","disease_name":["Systemic lupus erythematosus"]}
+{"disease_id":"H00081","disease_name":["Hashimoto's thyroiditis"]}
+{"disease_id":"H00082","disease_name":["Graves' disease"]}
+{"disease_id":"H00083","disease_name":["Organ rejection in renal transplantation","Acute or chronic solid organ rejection","Organ rejection in kidney, liver, and heart allogeneic transplants","Prophylaxis of acute organ rejection","Organ rejection, kidney transplant","Graft rejection","Prophylaxis of organ rejection","Organ rejection in heart transplant","Organ rejection in kidney transplantation","Organ rejection in kidney transplant","Organ rejection in liver transplant","Organ rejection in liver transplantation","Prevention of rejection in renal homotransplantation"]}
+{"disease_id":"H00084","disease_name":["Chronic graft-versus-host disease","Acute graft-versus-host disease","Chronic graft versus host disease","Acute graft versus host disease"]}
+{"disease_id":"H00097","disease_name":["WHIM syndrome"]}
+{"disease_id":"H00098","disease_name":["Chronic granulomatous disease"]}
+{"disease_id":"H00100","disease_name":["Febrile neutropenia","Neutropenia"]}
+{"disease_id":"H00106","disease_name":["CD55-deficient protein-losing enteropathy"]}
+{"disease_id":"H00109","disease_name":["Primary hemophagocytic lymphohistiocytosis"]}
+{"disease_id":"H00111","disease_name":["Typhoid","Disease caused by Salmonella typhi.","Typhoid fever"]}
+{"disease_id":"H00115","disease_name":["Congenital sucrase-isomaltase deficiency"]}
+{"disease_id":"H00117","disease_name":["Primary hyperoxaluria type 1"]}
+{"disease_id":"H00123","disease_name":["Mucopolysaccharidosis type IVA"]}
+{"disease_id":"H00125","disease_name":["Fabry disease (GLA variant)","Fabry disease"]}
+{"disease_id":"H00126","disease_name":["Type 1 Gaucher disease","Gaucher disease type 1","Gaucher disease"]}
+{"disease_id":"H00128","disease_name":["Mucopolysaccharidosis I"]}
+{"disease_id":"H00129","disease_name":["Hunter syndrome"]}
+{"disease_id":"H00131","disease_name":["Mucopolysaccharidosis VI; Maroteaux-Lamy syndrome"]}
+{"disease_id":"H00132","disease_name":["Mucopolysaccharidosis VII; Sly syndrome"]}
+{"disease_id":"H00136","disease_name":["Niemann-Pick disease type C"]}
+{"disease_id":"H00137","disease_name":["Acid sphingomyelinase deficiency"]}
+{"disease_id":"H00139","disease_name":["alpha-Mannosidosis"]}
+{"disease_id":"H00148","disease_name":["Lysosomal acid lipase deficiency"]}
+{"disease_id":"H00149","disease_name":["Neuronal ceroid lipofuscinosis type 2"]}
+{"disease_id":"H00152","disease_name":["Homozygous sitosterolemia"]}
+{"disease_id":"H00154","disease_name":["Lipoprotein lipase deficiency (LPL S447X variant)"]}
+{"disease_id":"H00155","disease_name":["Hypercholesterolemia (Heterozygous familial)","Homozygous familial hypercholesterolemia","Heterozygous familial hypercholesterolemia","Hypercholesterolemia"]}
+{"disease_id":"H00164","disease_name":["Deficiency of carbamylphosphate synthetase"]}
+{"disease_id":"H00165","disease_name":["Hereditary tyrosinemia type 1"]}
+{"disease_id":"H00167","disease_name":["Phenylketonuria","Phenylketonuria, BH4-responsive"]}
+{"disease_id":"H00176","disease_name":["Cerebral adrenoleukodystrophy"]}
+{"disease_id":"H00183","disease_name":["Homocystinuria"]}
+{"disease_id":"H00185","disease_name":["Deficiency of argininosuccinic acid synthetase"]}
+{"disease_id":"H00187","disease_name":["Deficiency of ornithine transcarbamylase"]}
+{"disease_id":"H00198","disease_name":["Orotic aciduria"]}
+{"disease_id":"H00201","disease_name":["Erythropoietic protoporphyria"]}
+{"disease_id":"H00202","disease_name":["Acute hepatic porphyria"]}
+{"disease_id":"H00205","disease_name":["Peroxisomal Disorders"]}
+{"disease_id":"H00206","disease_name":["Hyperimmunoglobulin D syndrome \/Mevalonate kinase deficiency"]}
+{"disease_id":"H00210","disease_name":["Wilson's disease","Wilson disease"]}
+{"disease_id":"H00213","disease_name":["Hypophosphatasia"]}
+{"disease_id":"H00216","disease_name":["Congenital adrenal hyperplasia"]}
+{"disease_id":"H00218","disease_name":["Cystic fibrosis (CFTR F508del homozygous mutation)","Cystic fibrosis (at least one mutation in CFTR)","Cystic fibrosis (another responsive mutation in CFTR)","Cystic fibrosis (CFTR F508del mutation)","Cystic fibrosis","Cystic fibrosis (CFTR mutation)","Cystic fibrosis patients with Pseudomonas aeruginosa"]}
+{"disease_id":"H00219","disease_name":["Hemophilia","Hemophilia B","Hemophilia B, congenital factor IX deficiency","Hemophilia B, congenital Factor IX deficiency","Hemophilia A"]}
+{"disease_id":"H00225","disease_name":["Thrombotic thrombocytopenic purpura","Congenital thrombotic thrombocytopenic purpura","Acquired thrombotic thrombocytopenic purpura"]}
+{"disease_id":"H00228","disease_name":["Beta-Thalassemia","beta-Thalassemia","beta Thalassemia"]}
+{"disease_id":"H00229","disease_name":["Sickle cell disease","Sickle cell anemia"]}
+{"disease_id":"H00235","disease_name":["Methemoglobinemia"]}
+{"disease_id":"H00237","disease_name":["Congenital (erythroid) hypoplastic anemia; Diamond-Blackfan anemia","Diamond-Blackfan anemia","Diamond blackfan anemia"]}
+{"disease_id":"H00246","disease_name":["Primary Hyperparathyroidism"]}
+{"disease_id":"H00250","disease_name":["Hypothyroidism"]}
+{"disease_id":"H00253","disease_name":["Central diabetes insipidus"]}
+{"disease_id":"H00254","disease_name":["Growth hormone deficiency"]}
+{"disease_id":"H00255","disease_name":["Hypogonadotropic hypogonadism"]}
+{"disease_id":"H00275","disease_name":["Cystinosis","Nephropathic cystinosis"]}
+{"disease_id":"H00282","disease_name":["Cryopyrin-associated periodic syndromes"]}
+{"disease_id":"H00283","disease_name":["Zaire ebolavirus infection"]}
+{"disease_id":"H00286","disease_name":["Crohn's disease","Adult Crohn's disease","Pediatric Crohn's disease"]}
+{"disease_id":"H00288","disease_name":["Familial mediterranean fever"]}
+{"disease_id":"H00292","disease_name":["Hypertrophic cardiomyopathy"]}
+{"disease_id":"H00297","disease_name":["Plague"]}
+{"disease_id":"H00299","disease_name":["Shigellosis"]}
+{"disease_id":"H00305","disease_name":["Chancroid"]}
+{"disease_id":"H00306","disease_name":["Pasteurella infections"]}
+{"disease_id":"H00311","disease_name":["Legionnaires' disease"]}
+{"disease_id":"H00312","disease_name":["Tularemia"]}
+{"disease_id":"H00314","disease_name":["Meningococcal meningitis"]}
+{"disease_id":"H00315","disease_name":["Gonococcal infections","Uncomplicated gonorrhea","Gonorrhea"]}
+{"disease_id":"H00319","disease_name":["Pertussis"]}
+{"disease_id":"H00320","disease_name":["Helicobacter pylori infection","H. pylori eradication","Helicobacter pylori eradication"]}
+{"disease_id":"H00322","disease_name":["Typhus fever","Typhus group infections"]}
+{"disease_id":"H00323","disease_name":["Rocky Mountain spotted fever"]}
+{"disease_id":"H00325","disease_name":["Brucellosis"]}
+{"disease_id":"H00328","disease_name":["Inhalational anthrax","Anthrax"]}
+{"disease_id":"H00330","disease_name":["MRSA infection","Infections caused by methicillin-resistant staphylococci"]}
+{"disease_id":"H00332","disease_name":["Listeriosis","Listeria infections"]}
+{"disease_id":"H00333","disease_name":["Infections due to susceptible strains of streptococci","Infections due to susceptible strains of Streptococci"]}
+{"disease_id":"H00334","disease_name":["Endocardial infection","Bacterial endocarditis","Endocarditis caused by enterococci","Endocarditis","Infective endocarditis"]}
+{"disease_id":"H00336","disease_name":["Gas gangrene"]}
+{"disease_id":"H00337","disease_name":["Tetanus"]}
+{"disease_id":"H00338","disease_name":["Clostridium difficile infection","Clostridium difficile-associated diarrhea"]}
+{"disease_id":"H00339","disease_name":["Botulism"]}
+{"disease_id":"H00340","disease_name":["Vancomycin-Resistant Enterococcus faecium infection"]}
+{"disease_id":"H00342","disease_name":["Tuberculosis","Pulmonary tuberculosis","Prevention of tuberculosis","Active pulmonary tuberculosis"]}
+{"disease_id":"H00343","disease_name":["Diphtheria"]}
+{"disease_id":"H00344","disease_name":["Leprosy"]}
+{"disease_id":"H00345","disease_name":["Nocardiosis"]}
+{"disease_id":"H00346","disease_name":["Hypersensitivity pneumonitis"]}
+{"disease_id":"H00347","disease_name":["Urethritis due to Chlamydia trachomatis","Urethritis and cervicitis due to Chlamydia trachomatis"]}
+{"disease_id":"H00349","disease_name":["Trachoma"]}
+{"disease_id":"H00353","disease_name":["Lyme disease"]}
+{"disease_id":"H00354","disease_name":["Syphilis"]}
+{"disease_id":"H00356","disease_name":["Diarrhea caused by Cryptosporidium parvum"]}
+{"disease_id":"H00357","disease_name":["African trypanosomiasis"]}
+{"disease_id":"H00358","disease_name":["Chagas disease"]}
+{"disease_id":"H00359","disease_name":["Leishmaniasis","Visceral leishmaniasis"]}
+{"disease_id":"H00360","disease_name":["Amebiasis","Intestinal amebiasis","Intestinal amebiasis; amebic dysentery"]}
+{"disease_id":"H00361","disease_name":["Malaria infections","Vivax malaria","Malaria"]}
+{"disease_id":"H00362","disease_name":["Diarrhea caused by Giardia lamblia","Giardiasis"]}
+{"disease_id":"H00363","disease_name":["Vulvovaginal candidiasis","Oropharyngeal candidiasis","Candidemia and invasive candidiasis","Candidemia","Vulvovaginal candidiasis, moniliasis","Candidiasis","Esophageal candidiasis","Systemic candidiasis"]}
+{"disease_id":"H00364","disease_name":["Cryptococcal meningitis","Cryptococcosis"]}
+{"disease_id":"H00365","disease_name":["Acute herpetic keratitis","Herpes simplex infection","Herpes simplex virus infection","Keratitis due to herpes simplex virus","Herpes labialis, Genital herpes","Genital herpes","Herpes labialis"]}
+{"disease_id":"H00366","disease_name":["Herpes zoster","Herpes zoster infection","Varicella-zoster infections","Varicella","Chickenpox","Herpes zoster ophthalmicus"]}
+{"disease_id":"H00368","disease_name":["Cytomegalovirus (CMV) retinitis","Cytomegalovirus infection","Cytomegalovirus retinitis","CMV retinitis, Prevention of CMV disease","CMV retinitis"]}
+{"disease_id":"H00372","disease_name":["Smallpox","Human smallpox disease"]}
+{"disease_id":"H00377","disease_name":["Rabies"]}
+{"disease_id":"H00380","disease_name":["Tick-borne encephalitis"]}
+{"disease_id":"H00381","disease_name":["Dengue disease"]}
+{"disease_id":"H00384","disease_name":["Yellow fever"]}
+{"disease_id":"H00398","disease_name":["Influenza","Influenza disease","Influenza A infection","Influenza A virus"]}
+{"disease_id":"H00401","disease_name":["RSV disease","Prevention of lower respiratory tract disease caused by respiratory syncytial virus","Respiratory syncytial virus infection"]}
+{"disease_id":"H00408","disease_name":["Type 1 diabetes"]}
+{"disease_id":"H00409","disease_name":["Non-insulin-dependent diabetes mellitus, type II","Type II diabetes mellitus","Type 2 diabetes mellitus"]}
+{"disease_id":"H00412","disease_name":["Hepatitis B","Chronic hepatitis B virus infection","Chronic hepatitis B","Chronic Hepatitis B"]}
+{"disease_id":"H00413","disease_name":["Chronic hepatitis C","Chronic hepatitis C virus infection","Hepatitis C virus infection","Chronic Hepatitis C"]}
+{"disease_id":"H00414","disease_name":["Hepatitis delta virus infection"]}
+{"disease_id":"H00430","disease_name":["Fibrodysplasia ossificans progressiva"]}
+{"disease_id":"H00435","disease_name":["Toxoplasmosis encephalitis","Toxoplasmosis"]}
+{"disease_id":"H00436","disease_name":["Malignant osteopetrosis"]}
+{"disease_id":"H00437","disease_name":["Paget's disease","Paget's disease of bone"]}
+{"disease_id":"H00439","disease_name":["Trachoma"]}
+{"disease_id":"H00440","disease_name":["Rett syndrome"]}
+{"disease_id":"H00455","disease_name":["Spinal muscular atrophy","Spinal muscular atrophy (bi-allelic SMN1 mutations)"]}
+{"disease_id":"H00549","disease_name":["Tetralogy of Fallot"]}
+{"disease_id":"H00551","disease_name":["Alagille syndrome"]}
+{"disease_id":"H00559","disease_name":["von Hippel-Lindau disease-associated tumors"]}
+{"disease_id":"H00587","disease_name":["Dystrophic epidermolysis bullosa (COL7A1 mutation)"]}
+{"disease_id":"H00601","disease_name":["Hutchinson-Gilford progeria syndrome"]}
+{"disease_id":"H00612","disease_name":["Glaucoma","Open-angle glaucoma","Chronic open-angle glaucoma","Chronic simple (open-angle) glaucoma","Open angle glaucoma"]}
+{"disease_id":"H00624","disease_name":["Progressive familial intrahepatic cholestasis"]}
+{"disease_id":"H00627","disease_name":["Primary ovarian failure"]}
+{"disease_id":"H00630","disease_name":["Active rheumatoid arthritis","Rheumatoid arthritis"]}
+{"disease_id":"H00681","disease_name":["Hidradenitis suppurativa"]}
+{"disease_id":"H00731","disease_name":["Atrial fibrillation","Atrial fibrillation\/flutter","Atrial flutter"]}
+{"disease_id":"H00746","disease_name":["Hypokalemic familial periodic paralysis"]}
+{"disease_id":"H00789","disease_name":["Keratoconus"]}
+{"disease_id":"H00808","disease_name":["Juvenile myoclonic epilepsy"]}
+{"disease_id":"H00812","disease_name":["Trichomoniasis"]}
+{"disease_id":"H00821","disease_name":["Age-related macular degeneration","Age-related macular degeneration, geographic atrophy","Neovascular (wet) age-related macular degeneration"]}
+{"disease_id":"H00845","disease_name":["Hereditary transthyretin-mediated amyloidosis","Polyneuropathy of hereditary transthyretin-mediated amyloidosis","Cardiomyopathy of transthyretin-mediated amyloidosis"]}
+{"disease_id":"H00862","disease_name":["Tourette\u2019s disorder","Tourette's disorder"]}
+{"disease_id":"H00896","disease_name":["Lymphangioleiomyomatosis"]}
+{"disease_id":"H00901","disease_name":["Cystinuria"]}
+{"disease_id":"H00912","disease_name":["Tumor necrosis factor receptor associated periodic syndrome"]}
+{"disease_id":"H00915","disease_name":["Tuberous sclerosis complex"]}
+{"disease_id":"H00975","disease_name":["Prevention of rotavirus gastroenteritis"]}
+{"disease_id":"H00978","disease_name":["Thrombocytopenia"]}
+{"disease_id":"H00995","disease_name":["Coagulation disorders which are due to faulty formation of factors II,VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity"]}
+{"disease_id":"H01005","disease_name":["Dopamine beta-hydroxylase deficiency"]}
+{"disease_id":"H01006","disease_name":["Hereditary angioedema"]}
+{"disease_id":"H01032","disease_name":["NAGS deficiency"]}
+{"disease_id":"H01043","disease_name":["Onchocerciasis"]}
+{"disease_id":"H01045","disease_name":["Infections due to schistosoma"]}
+{"disease_id":"H01046","disease_name":["Gastrointestinal infection, whipworm"]}
+{"disease_id":"H01047","disease_name":["Neurocysticercosis"]}
+{"disease_id":"H01048","disease_name":["Fascioliasis"]}
+{"disease_id":"H01053","disease_name":["Paroxysmal nocturnal hemoglobinuria"]}
+{"disease_id":"H01054","disease_name":["Head lice","Head lice infestation"]}
+{"disease_id":"H01062","disease_name":["Histoplasmosis"]}
+{"disease_id":"H01090","disease_name":["Gastrointestinal infection, roundworm"]}
+{"disease_id":"H01091","disease_name":["Gastrointestinal infection, pinworm"]}
+{"disease_id":"H01092","disease_name":["Gastrointestinal infection, hookworm"]}
+{"disease_id":"H01096","disease_name":["Hemolytic anemia with pyruvate kinase deficiency"]}
+{"disease_id":"H01097","disease_name":["Cerebral palsy"]}
+{"disease_id":"H01099","disease_name":["Trichinosis with neurologic or myocardial involvement"]}
+{"disease_id":"H01100","disease_name":["Strongyloidiasis of the intestinal tract"]}
+{"disease_id":"H01102","disease_name":["Multiple endocrine adenomas"]}
+{"disease_id":"H01109","disease_name":["Cutaneous candidiasis"]}
+{"disease_id":"H01132","disease_name":["Aplastic anemia"]}
+{"disease_id":"H01153","disease_name":["Hydatid disease"]}
+{"disease_id":"H01158","disease_name":["Alopecia areata"]}
+{"disease_id":"H01161","disease_name":["Aromatic L-amino acid decarboxylase deficiency"]}
+{"disease_id":"H01175","disease_name":["Staphylococcal infection","Infections due to susceptible strains of staphylococci"]}
+{"disease_id":"H01176","disease_name":["Uncomplicated and complicated urinary tract infections","Uncomplicated urinary tract infections","Chronic urea-splitting urinary infection","Urinary tract infections","Uncomplicated urinary tract infection"]}
+{"disease_id":"H01210","disease_name":["Hypomagnesemia"]}
+{"disease_id":"H01213","disease_name":["Radiolucent stones in well-opacifying gallbladders"]}
+{"disease_id":"H01240","disease_name":["Idiopathic thrombocytopenic purpura","Chronic immune thrombocytopenia","Immune thrombocytopenia"]}
+{"disease_id":"H01267","disease_name":["Hypoglycemia due to hyperinsulinism"]}
+{"disease_id":"H01275","disease_name":["Deficiency of interleukin-1 receptor antagonist"]}
+{"disease_id":"H01293","disease_name":["Narcolepsy"]}
+{"disease_id":"H01299","disease_name":["Idiopathic pulmonary fibrosis"]}
+{"disease_id":"H01314","disease_name":["Rat-bite fever","Rat bite fever","Haverhill fever"]}
+{"disease_id":"H01315","disease_name":["Erysipeloid"]}
+{"disease_id":"H01316","disease_name":["Tinea pedis","Onychomycosis of the toenail, fingernail","Tinea pedis; Tinea cruris; Tinea corporis","Tinea unguium","Tinea corporis","Tinea cruris","Onychomycosis","Tinea capitis","Tnea corporis","Ringworm infection","Interdigital tinea pedis"]}
+{"disease_id":"H01318","disease_name":["Yaws"]}
+{"disease_id":"H01319","disease_name":["Coccidioidomycosis"]}
+{"disease_id":"H01321","disease_name":["Prevention of invasive disease caused by Streptococcus pneumoniae serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F and 33F","Prevention of pneumonia and invasive disease caused by Streptococcus pneumoniae serotypes 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F","Prevention of invasive disease caused by Streptococcus pneumoniae serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F","Prevention of pneumococcal disease","Pneumonia due to Streptococcus pneumoniae"]}
+{"disease_id":"H01325","disease_name":["Actinomycosis"]}
+{"disease_id":"H01328","disease_name":["Allergic bronchopulmonary aspergillosis","Invasive aspergillosis","Aspergillosis","Invasive Aspergillus infection"]}
+{"disease_id":"H01329","disease_name":["Paracoccidioidomycosis"]}
+{"disease_id":"H01331","disease_name":["Dental decay","Dental caries"]}
+{"disease_id":"H01334","disease_name":["Tinea versicolor","Tinea (pityriasis) versicolor"]}
+{"disease_id":"H01342","disease_name":["Zellweger spectrum disorder"]}
+{"disease_id":"H01357","disease_name":["Contact dermatitis"]}
+{"disease_id":"H01358","disease_name":["Atopic dermatitis"]}
+{"disease_id":"H01359","disease_name":["Anaphylaxis"]}
+{"disease_id":"H01360","disease_name":["Allergic rhinitis","Seasonal allergic rhinitis","Perennial allergic rhinitis","Perennial and seasonal allergic rhinitis","Bacterial conjunctivitis","Seasonal or perennial allergic rhinitis","Perennial or seasonal allergic rhinitis"]}
+{"disease_id":"H01362","disease_name":["Dermatitis herpetiformis","Bullous dermatitis herpetiformis"]}
+{"disease_id":"H01366","disease_name":["Bacterial conjunctivitis"]}
+{"disease_id":"H01372","disease_name":["Nonsegmental vitiligo"]}
+{"disease_id":"H01380","disease_name":["Bacterial vaginosis"]}
+{"disease_id":"H01381","disease_name":["Hereditary antithrombin deficiency"]}
+{"disease_id":"H01387","disease_name":["Activated phosphoinositide 3-kinase delta syndrome"]}
+{"disease_id":"H01388","disease_name":["Hyperprolactinemic","Hyperprolactinemia"]}
+{"disease_id":"H01398","disease_name":["Hyperammonemia","Urea cycle disorders"]}
+{"disease_id":"H01409","disease_name":["Infections caused by Staphylococcus aureus, methicillin susceptible"]}
+{"disease_id":"H01410","disease_name":["Anaerobic bacterial infections"]}
+{"disease_id":"H01415","disease_name":["Donovanosis, Granuloma inguinale"]}
+{"disease_id":"H01418","disease_name":["Genital warts; Condyloma acuminata","Condylomata acuminata","Genital warts","Genital warts, Condyloma acuminatum"]}
+{"disease_id":"H01424","disease_name":["Pharyngitis and tonsillitis","Pharyngitis\/tonsillitis"]}
+{"disease_id":"H01431","disease_name":["Cushing\u2019s disease","Cushing's disease","Cushing's syndrome"]}
+{"disease_id":"H01434","disease_name":["Atypical hemolytic uremic syndrome"]}
+{"disease_id":"H01437","disease_name":["Neurofibromatosis type 1, with plexiform neurofibromas","Neurofibromatosis type 1"]}
+{"disease_id":"H01440","disease_name":["Vincent's gingivitis"]}
+{"disease_id":"H01445","disease_name":["Acne vulgaris"]}
+{"disease_id":"H01450","disease_name":["Obsessive compulsive disorder","Obsessive-compulsive disorder"]}
+{"disease_id":"H01456","disease_name":["Chronic kidney disease associated with type 2 diabetes","Diabetic Nephropathy","Nephropathy in type 2 diabetic"]}
+{"disease_id":"H01457","disease_name":["Diabetic retinopathy"]}
+{"disease_id":"H01458","disease_name":["Disseminated Mycobacterium avium complex (MAC) disease"]}
+{"disease_id":"H01459","disease_name":["Diabetic peripheral neuropathic pain","Diabetic peripheral neuropathy (DPN)","Diabetic peripheral neuropathy","Diabetic neuropathic ulcers"]}
+{"disease_id":"H01460","disease_name":["Infantile spasms"]}
+{"disease_id":"H01463","disease_name":["Mcosis fungoides","Cutaneous T-cell lymphoma (CD25 express)","Mycosis fungoides (CCR4-directed)","Cutaneous T-cell lymphoma","Mycosis fungoides (CD30 expressing)","Mycosis fungoides-type cutaneous T-cell lymphoma","Cutaneous T-Cell Lymphoma","Mycosis fungoides"]}
+{"disease_id":"H01464","disease_name":["Mantle cell lymphoma"]}
+{"disease_id":"H01466","disease_name":["Ulcerative proctitis","Distal ulcerative colitis","Active ulcerative colitis","Ulcerative colitis"]}
+{"disease_id":"H01467","disease_name":["Primary biliary cholangitis","Primary biliary cirrhosis"]}
+{"disease_id":"H01469","disease_name":["Short bowel syndrome"]}
+{"disease_id":"H01470","disease_name":["Giant cell tumor of bone"]}
+{"disease_id":"H01472","disease_name":["Pulmonary multi-drug resistant tuberculosis","Multidrug-resistant tuberculosis"]}
+{"disease_id":"H01473","disease_name":["Erythema nodosum leprosum"]}
+{"disease_id":"H01475","disease_name":["Lipodystrophy"]}
+{"disease_id":"H01476","disease_name":["Beh\u00e7et\u2019s disease"]}
+{"disease_id":"H01479","disease_name":["Castleman's disease (HIV negative, HHV-8 negative)"]}
+{"disease_id":"H01481","disease_name":["myelodysplastic syndrome (susceptible IDH1 mutation)","Myelodysplastic syndrome","Myelodysplastic syndromes"]}
+{"disease_id":"H01482","disease_name":["Infantile hemangioma"]}
+{"disease_id":"H01483","disease_name":["Acromegaly"]}
+{"disease_id":"H01484","disease_name":["Myelodysplastic syndromes (chromosome 5q deletion)"]}
+{"disease_id":"H01490","disease_name":["Multiple sclerosis"]}
+{"disease_id":"H01491","disease_name":["Neuromyelitis optica spectrum disorder (anti-AQP4 antibody positive)","Neuromyelitis optica spectrum disorder (AQP4 antibody positive)"]}
+{"disease_id":"H01492","disease_name":["Systemic sclerosis-associated interstitial lung disease"]}
+{"disease_id":"H01499","disease_name":["Sporotrichosis"]}
+{"disease_id":"H01500","disease_name":["Lupus nephritis"]}
+{"disease_id":"H01501","disease_name":["Blastomycosis","North American blastomycosis"]}
+{"disease_id":"H01502","disease_name":["Sjogren's Syndrome","Sjogren's syndrome","Sj\u00f6gren's Syndrome"]}
+{"disease_id":"H01503","disease_name":["Zygomycosis"]}
+{"disease_id":"H01506","disease_name":["Hepatic encephalopathy"]}
+{"disease_id":"H01507","disease_name":["Psoriatic arthritis"]}
+{"disease_id":"H01511","disease_name":["Mastocytosis","Systemic mastocytosis"]}
+{"disease_id":"H01512","disease_name":["Letterer-Siwe disease"]}
+{"disease_id":"H01513","disease_name":["Retinoblastoma"]}
+{"disease_id":"H01515","disease_name":["Scarlet fever"]}
+{"disease_id":"H01517","disease_name":["Erysipelas"]}
+{"disease_id":"H01519","disease_name":["Scabies"]}
+{"disease_id":"H01520","disease_name":["Chromomycosis"]}
+{"disease_id":"H01521","disease_name":["Pneumocystis carinii pneumonia","Pneumonia due to Pneumocystis carinii","Pneumocystis jiroveci pneumonia"]}
+{"disease_id":"H01522","disease_name":["Zollinger-Ellison syndrome"]}
+{"disease_id":"H01530","disease_name":["Pinta"]}
+{"disease_id":"H01531","disease_name":["Bejel"]}
+{"disease_id":"H01532","disease_name":["Gout","Gout and gouty arthritis","Primary or secondary gout","Chronic gout","Gout flares","Acute gout","Gouty arthritis","Acute gouty arthritis"]}
+{"disease_id":"H01551","disease_name":["Interstitial cystitis"]}
+{"disease_id":"H01554","disease_name":["Fallopian tube cancer","Fallopian tube cancer (folate receptor alpha positive)","Fallopian tube cancer (BRCA mutated)"]}
+{"disease_id":"H01555","disease_name":["Merkel cell carcinoma"]}
+{"disease_id":"H01558","disease_name":["Parathyroid carcinoma"]}
+{"disease_id":"H01559","disease_name":["Oropharyngeal cancer"]}
+{"disease_id":"H01563","disease_name":["Human immunodeficiency virus infection","HIV-1 infection (CCR5-tropic)","HIV infection","HIV-1 infection","HIV patient"]}
+{"disease_id":"H01565","disease_name":["Wernicke's encephalopathy"]}
+{"disease_id":"H01566","disease_name":["Beriberi"]}
+{"disease_id":"H01577","disease_name":["Essential tremor"]}
+{"disease_id":"H01580","disease_name":["Scurvy"]}
+{"disease_id":"H01581","disease_name":["Immunoglobulin A nephropathy"]}
+{"disease_id":"H01585","disease_name":["Cold agglutinin disease","Acquired (autoimmune) hemolytic anemia"]}
+{"disease_id":"H01586","disease_name":["Pure red cell aplasia"]}
+{"disease_id":"H01587","disease_name":["Disseminated intravascular coagulation"]}
+{"disease_id":"H01588","disease_name":["Cluster headache"]}
+{"disease_id":"H01589","disease_name":["Carnitine deficiency","Primary systemic carnitine deficiency"]}
+{"disease_id":"H01590","disease_name":["Chronic eosinophilic leukemia (FIP1L1-PDGFRA positive)"]}
+{"disease_id":"H01591","disease_name":["Gastrotintestinal stromal tumor","Gastrotintestinal stromal tumor (PDGFRA mutaion positive)","Gastrointestinal stromal tumors (KIT positive)"]}
+{"disease_id":"H01592","disease_name":["Medullary thyroid cancer","Medullary thyroid cancer (RET mutant)"]}
+{"disease_id":"H01593","disease_name":["Postmenopausal osteoporosis","Osteoporosis"]}
+{"disease_id":"H01594","disease_name":["Myasthenia gravis (emergency treatment)","Myasthenia gravis","Generalized myasthenia gravis (AChR antibody positive)","Generalized myasthenia gravis (antiacetylcholine receptor antibody positive)","Generalized myasthenia gravis (anti-acetylcholine receptor or anti-muscle specific tyrosine kinase antibody positive)"]}
+{"disease_id":"H01595","disease_name":["Discoid lupus erythematosus"]}
+{"disease_id":"H01596","disease_name":["Lambert-Eaton myasthenic syndrome"]}
+{"disease_id":"H01597","disease_name":["Restless legs syndrome"]}
+{"disease_id":"H01598","disease_name":["Primary adrenocortical insufficiency","Addison's disease","Primary or secondary adrenocortical insufficiency"]}
+{"disease_id":"H01599","disease_name":["Hypereosinophilic syndrome (FIP1L1-PDGFRA positive)"]}
+{"disease_id":"H01600","disease_name":["Parkinsonism","Idiopathic Parkinson disease"]}
+{"disease_id":"H01601","disease_name":["Anaplastic large cell lymphoma (ALK positive)","Anaplastic large cell lymphoma"]}
+{"disease_id":"H01602","disease_name":["Gastroesophageal reflux disease","Non-erosive gastroesophageal reflux disease","Erosive or ulcerative GERD","Gastroesophageal reflux","Erosive esophagitis"]}
+{"disease_id":"H01603","disease_name":["Primary hyperaldosteronism"]}
+{"disease_id":"H01604","disease_name":["Systemic dermatomyositis and polymyositis","Dermatomyositis","Polymyositis","Systemic dermatomyositis, polymyositis","Dermatomyositis and polymyositis"]}
+{"disease_id":"H01605","disease_name":["Myelofibrosis"]}
+{"disease_id":"H01606","disease_name":["Polymyalgia rheumatica"]}
+{"disease_id":"H01608","disease_name":["Cervical dystonia"]}
+{"disease_id":"H01609","disease_name":["Nighttime sleep-aid","Insomnia"]}
+{"disease_id":"H01611","disease_name":["Management of selected chronic alcohol patients","Alcohol dependence","Alcohol Dependence","Alcoholism"]}
+{"disease_id":"H01613","disease_name":["Follicular lymphoma","Giant follicular lymphoma","Follicular Lymphoma (EZH2 mutation positive)"]}
+{"disease_id":"H01614","disease_name":["Multiple system atrophy"]}
+{"disease_id":"H01615","disease_name":["Irritable bowel syndrome, with diarrhea","Irritable bowel syndrome","Functional bowel\/irritable bowel syndrome","Irritable bowel syndrome with constipation"]}
+{"disease_id":"H01620","disease_name":["Raynaud's disease"]}
+{"disease_id":"H01621","disease_name":["Pulmonary arterial hypertension"]}
+{"disease_id":"H01622","disease_name":["Chronic-thromboembolic pulmonary hypertension"]}
+{"disease_id":"H01623","disease_name":["Cyanide poisoning"]}
+{"disease_id":"H01624","disease_name":["Postherpetic neuralgia"]}
+{"disease_id":"H01625","disease_name":["Thromboangiitis obliterans; Buerger's disease"]}
+{"disease_id":"H01626","disease_name":["Arteriosclerosis obliterans"]}
+{"disease_id":"H01629","disease_name":["Chronic occlusive arterial disease"]}
+{"disease_id":"H01630","disease_name":["Patent ductus arteriosus"]}
+{"disease_id":"H01631","disease_name":["Acute heart failure","Acute decompensated heart failure"]}
+{"disease_id":"H01632","disease_name":["Angina pectoris","Unstable angina","Angina","Angina pectoris due to coronary atherosclerosis","Chronic angina","Angina Pectoris","Chronic stable angina","Unstable angina pectoris","Vasospastic angina"]}
+{"disease_id":"H01633","disease_name":["Essential hypertension","High blood pressure","Hypertension"]}
+{"disease_id":"H01634","disease_name":["Peptic ulcer","Gastric ulcer","Duodenal ulcer","Gastric or duodenal ulcers","Upper gastrointestinal ulcer","Gastric ulcers"]}
+{"disease_id":"H01635","disease_name":["Hyperlipidemia","Mixed dyslipidemia","Primary hyperlipidemia","Hypercholesterolemia","Types IV and V hyperlipidemia","Primary hypercholesterolemia or mixed dyslipidemia","hypercholesterolemia"]}
+{"disease_id":"H01636","disease_name":["Fibromyalgia"]}
+{"disease_id":"H01637","disease_name":["Hypertriglyceridemia","Primary dysbetalipoproteinemia; type III hyperlipoproteinemia"]}
+{"disease_id":"H01638","disease_name":["Trigeminal neuralgia"]}
+{"disease_id":"H01639","disease_name":["Endometriosis"]}
+{"disease_id":"H01640","disease_name":["Uterine leiomyomata","Uterine leiomyoma"]}
+{"disease_id":"H01641","disease_name":["Dry eye disease","Keratoconjunctivitis sicca","Dry eye desease"]}
+{"disease_id":"H01642","disease_name":["Anemia due to chronic kidney disease"]}
+{"disease_id":"H01645","disease_name":["Hyperthyroidism"]}
+{"disease_id":"H01646","disease_name":["Depression","Major depressive disorder","Major depressive episode","Depressive"]}
+{"disease_id":"H01648","disease_name":["Pemphigus vulgaris","Pemphigus"]}
+{"disease_id":"H01649","disease_name":["Schizophrenia","Schizophrenics","Treatment-resistant schizophrenia"]}
+{"disease_id":"H01651","disease_name":["Macular edema","Macular edema following retinal vein occlusion","Diabetic macular edema"]}
+{"disease_id":"H01652","disease_name":["Severe seborrheic dermatitis","Seborrheic Dermatitis","Seborrheic dermatitis"]}
+{"disease_id":"H01653","disease_name":["Bipolar disorder","Bipolar I or II disorder","Bipolar I disorder","Bipolar mania","Bipolar disorder, manic episodes","Manic-depressive illness","Bipolar I disorder, manic or mixed episodes"]}
+{"disease_id":"H01654","disease_name":["Lichen planus"]}
+{"disease_id":"H01655","disease_name":["Granulomatosis with polyangiitis; Wegener's granulomatosis"]}
+{"disease_id":"H01656","disease_name":["Plaque Psoriasis","Severe psoriasis","Plaque psoriasis","Psoriasis","Psoriatic arthritis"]}
+{"disease_id":"H01657","disease_name":["Nephrotic syndrome"]}
+{"disease_id":"H01658","disease_name":["Microscopic polyangiitis"]}
+{"disease_id":"H01662","disease_name":["Generalized anxiety disorder","Anxiety","Anxiety disorders","Anxiety-tension states"]}
+{"disease_id":"H01663","disease_name":["Generalized pustular psoriasis","Hypertension"]}
+{"disease_id":"H01664","disease_name":["Panic disorder"]}
+{"disease_id":"H01665","disease_name":["Primary peritoneal cancer","Primary peritoneal cancer (folate receptor alpha positive)","Primary peritoneal cancer (BRCA mutated)"]}
+{"disease_id":"H01667","disease_name":["Medulloblastoma"]}
+{"disease_id":"H01668","disease_name":["Lymphomatous meningitis"]}
+{"disease_id":"H01669","disease_name":["Secondary hyperparathyroidism"]}
+{"disease_id":"H01670","disease_name":["Social anxiety disorder"]}
+{"disease_id":"H01672","disease_name":["Juvenile rheumatoid arthritis","Systemic juvenile idiopathic arthritis","Polyarticular juvenile idiopathic arthritis","Juvenile idiopathic arthritis"]}
+{"disease_id":"H01674","disease_name":["Ankylosing spondylitis"]}
+{"disease_id":"H01691","disease_name":["Tuberous sclerosis complex-associated renal angiomyolipoma"]}
+{"disease_id":"H01692","disease_name":["Tuberous sclerosis complex-associated subependymal giant cell astrocytoma"]}
+{"disease_id":"H01694","disease_name":["Severe erythema multiforme (Stevens-Johnson syndrome)","Stevens-Johnson syndrome"]}
+{"disease_id":"H01695","disease_name":["Severe erythema multiforme","Erythema multiforme"]}
+{"disease_id":"H01698","disease_name":["Temporal arteritis","Giant Cell Arteritis"]}
+{"disease_id":"H01703","disease_name":["Binge eating disorder","Bulimia nervosa"]}
+{"disease_id":"H01709","disease_name":["Glucocorticoid-induced osteoporosis"]}
+{"disease_id":"H01714","disease_name":["Chronic obstructive pulmonary disease","Chronic emphysema","Emphysema"]}
+{"disease_id":"H01717","disease_name":["Optic neuritis"]}
+{"disease_id":"H01723","disease_name":["Deep vein thrombosis"]}
+{"disease_id":"H01730","disease_name":["Acute Myocardial Infarction","Myocardial infarction","Acute myocardial infarction","Mmyocardial infarction"]}
+{"disease_id":"H01742","disease_name":["Coronary artery disease"]}
+{"disease_id":"H01749","disease_name":["Achondroplasia"]}
+{"disease_id":"H01758","disease_name":["Relapsing polychondritis"]}
+{"disease_id":"H01763","disease_name":["Acute intermittent porphyria"]}
+{"disease_id":"H01785","disease_name":["Tricuspid atresia"]}
+{"disease_id":"H01813","disease_name":["Lennox-Gastaut syndrome"]}
+{"disease_id":"H01818","disease_name":["Dravet syndrome"]}
+{"disease_id":"H01819","disease_name":["Seizures associated with cyclin-dependent kinase-like 5 deficiency disorder"]}
+{"disease_id":"H01862","disease_name":["Hypoparathyroidism"]}
+{"disease_id":"H01873","disease_name":["Idiopathic bronchiolitis obliterans"]}
+{"disease_id":"H01892","disease_name":["Peripheral T-cell lymphoma","Peripheral T-cell lymphoma (CD30 expressing)"]}
+{"disease_id":"H01895","disease_name":["Attention deficit hyperactivity disorder","Attention deficit disorder with hyperactivity","Attention-deficit\/hyperactivity disorder"]}
+{"disease_id":"H01901","disease_name":["Barrett's esophagus"]}
+{"disease_id":"H01940","disease_name":["Pompe disease"]}
+{"disease_id":"H01963","disease_name":["Duchenne muscular dystrophy (DMD variant amenable to exon 51 skipping)","Duchenne muscular dystrophy (DMD variant amenable to exon 53 skipping)","Duchenne muscular dystrophy (amenable to exon 53 skipping mutated)","Duchenne muscular dystrophy (DMD variant amenable to exon 45 skipping)","Duchenne muscular dystrophy"]}
+{"disease_id":"H02018","disease_name":["Central precocious puberty"]}
+{"disease_id":"H02027","disease_name":["Primary hypogonadism (males)","Male hypogonadism"]}
+{"disease_id":"H02033","disease_name":["Mucormycosis"]}
+{"disease_id":"H02040","disease_name":["Primary IGF-1 deficiency"]}
+{"disease_id":"H02060","disease_name":["Leptin receptor deficiency"]}
+{"disease_id":"H02092","disease_name":["von Willebrand's disease type 1"]}
+{"disease_id":"H02105","disease_name":["Proprotein convertase subtilisin\/kexin type 1 deficiency"]}
+{"disease_id":"H02106","disease_name":["Gentic obesity"]}
+{"disease_id":"H02143","disease_name":["X-linked hypophosphatemia"]}
+{"disease_id":"H02145","disease_name":["Calcium oxalate nephrolithiasis"]}
+{"disease_id":"H02176","disease_name":["Cryptorchidism"]}
+{"disease_id":"H02301","disease_name":["Wilms' tumor","Neuroblastoma","Wilms tumor"]}
+{"disease_id":"H02309","disease_name":["Adenosine deaminase severe combined immune deficiency","Adenosine deaminase deficiency"]}
+{"disease_id":"H02310","disease_name":["Renal tubular acidosis"]}
+{"disease_id":"H02311","disease_name":["Molybdenum cofactor deficiency type A"]}
+{"disease_id":"H02352","disease_name":["Progressive vaccinia","Severe generalized vaccinia"]}
+{"disease_id":"H02392","disease_name":["Scedosporiosis"]}
+{"disease_id":"H02398","disease_name":["Coronavirus disease 2019","Prevention of COVID-19","COVID-19"]}
+{"disease_id":"H02402","disease_name":["Thyroid eye disease"]}
+{"disease_id":"H02410","disease_name":["Myelodysplastic\/myeloproliferative diseases"]}
+{"disease_id":"H02418","disease_name":["Non-Hodgkin lymphoma","Non-Hodgkin's lymphoma (CD20 positive)","Non\u2013Hodgkin's malignant lymphomas","Non-Hodgkin's lymphomas","Non-Hodgkin's lymphoma"]}
+{"disease_id":"H02420","disease_name":["Head and neck cancer","Squamous cell carcinoma of the head and neck","Head and neck squamous cell carcinoma","Head and neck squamous cell carcinoma (PD-L1 expressed)","Squamous cell carcinomas of the head and neck","Epidermoid cancers of the head and neck"]}
+{"disease_id":"H02421","disease_name":["Solid tumors (NTRK gene fusion positive)","Solid tumor (HER2 positive IHC 3+)","Solid tumor (MSI-H or dMMR)","Solid malignancies","Solid tumor (TMB-H)"]}
+{"disease_id":"H02423","disease_name":["Crab lice infestation"]}
+{"disease_id":"H02425","disease_name":["Erdheim-Chester disease (BRAF mutation positive)"]}
+{"disease_id":"H02427","disease_name":["Soft tissue sarcoma","Liposarcoma","Epithelioid sarcoma","Leiomyosarcoma"]}
+{"disease_id":"H02429","disease_name":["Actinic keratosis"]}
+{"disease_id":"H02434","disease_name":["Diffuse large B-cell lymphoma","Diffuse large B-cell lymphoma (CD19-directed)","Diffuse large B-cell lymphoma not otherwise specified","Diffuse large B-cell lymphoma, not otherwise specified","Mediastinal large B-cell lymphoma"]}
+{"disease_id":"H02499","disease_name":["Light chain amyloidosis"]}
+{"disease_id":"H02505","disease_name":["Atherosclerotic cardiovascular disease"]}
+{"disease_id":"H02542","disease_name":["Acute promyelocytic leukemia"]}
+{"disease_id":"H02677","disease_name":["Progeroid laminopathy (LMNA mutation, ZMPSTE24 mutation)"]}
+{"disease_id":"H06132","disease_name":["Angina pectoris"]}

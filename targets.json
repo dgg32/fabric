@@ -1,0 +1,649 @@
+{"ko_number":"K00011","target_name":["AKR1B1"]}
+{"ko_number":"K00016","target_name":["LDHA"]}
+{"ko_number":"K00021","target_name":["HMGCR"]}
+{"ko_number":"K00031","target_name":["IDH1*","IDH2*","IDH","IDH2"]}
+{"ko_number":"K00070","target_name":["HSD3B"]}
+{"ko_number":"K00088","target_name":["IMPDH"]}
+{"ko_number":"K00106","target_name":["XDH"]}
+{"ko_number":"K00128","target_name":["ALDH"]}
+{"ko_number":"K00254","target_name":["DHODH"]}
+{"ko_number":"K00274","target_name":["MAO","MAOA","MAOB"]}
+{"ko_number":"K00276","target_name":["AOC3"]}
+{"ko_number":"K00287","target_name":["DHFR"]}
+{"ko_number":"K00355","target_name":["NQO1"]}
+{"ko_number":"K00384","target_name":["thioredoxin reductase"]}
+{"ko_number":"K00412","target_name":["Cytochrome b"]}
+{"ko_number":"K00431","target_name":["TPO"]}
+{"ko_number":"K00457","target_name":["HPD"]}
+{"ko_number":"K00461","target_name":["ALOX5"]}
+{"ko_number":"K00463","target_name":["IDO1"]}
+{"ko_number":"K00497","target_name":["CYP11B1"]}
+{"ko_number":"K00498","target_name":["CYP11A1"]}
+{"ko_number":"K00500","target_name":["PAH*"]}
+{"ko_number":"K00501","target_name":["TH"]}
+{"ko_number":"K00502","target_name":["TPH"]}
+{"ko_number":"K00505","target_name":["TYR"]}
+{"ko_number":"K00509","target_name":["PTGS1"]}
+{"ko_number":"K00511","target_name":["squalene epoxidase"]}
+{"ko_number":"K00512","target_name":["CYP17A1"]}
+{"ko_number":"K00545","target_name":["COMT"]}
+{"ko_number":"K00546","target_name":["histamine N-methyltransferase"]}
+{"ko_number":"K00558","target_name":["DNMT"]}
+{"ko_number":"K00560","target_name":["TYMS"]}
+{"ko_number":"K00643","target_name":["ALAS","ALAS1"]}
+{"ko_number":"K00706","target_name":["beta-1,3-glucan synthase"]}
+{"ko_number":"K00720","target_name":["UGCG"]}
+{"ko_number":"K00760","target_name":["HPRT1"]}
+{"ko_number":"K00787","target_name":["FDPS"]}
+{"ko_number":"K00790","target_name":["UDP-N-acetylglucosamine 1-carboxyvinyltransferase"]}
+{"ko_number":"K00796","target_name":["dihydropteroate synthase"]}
+{"ko_number":"K00844","target_name":["HK"]}
+{"ko_number":"K00922","target_name":["PIK3CD","PIK3CA","PIK3C","PIK3CA*"]}
+{"ko_number":"K01049","target_name":["ACHE","acetylcholinesterase"]}
+{"ko_number":"K01050","target_name":["butyrylcholinesterase","cholinesterase","BCHE"]}
+{"ko_number":"K01052","target_name":["LIPA*"]}
+{"ko_number":"K01059","target_name":["LPL","LPL*"]}
+{"ko_number":"K01077","target_name":["ALPL*"]}
+{"ko_number":"K01132","target_name":["GALNS*"]}
+{"ko_number":"K01135","target_name":["ARSB*"]}
+{"ko_number":"K01136","target_name":["IDS*"]}
+{"ko_number":"K01189","target_name":["GLA*"]}
+{"ko_number":"K01195","target_name":["GUSB*"]}
+{"ko_number":"K01201","target_name":["GBA*"]}
+{"ko_number":"K01203","target_name":["SI*"]}
+{"ko_number":"K01217","target_name":["IDUA*"]}
+{"ko_number":"K01242","target_name":["CD38"]}
+{"ko_number":"K01278","target_name":["DPP4"]}
+{"ko_number":"K01279","target_name":["TPP1*"]}
+{"ko_number":"K01283","target_name":["ACE"]}
+{"ko_number":"K01312","target_name":["PRSS"]}
+{"ko_number":"K01313","target_name":["F2a"]}
+{"ko_number":"K01314","target_name":["F10a","F10"]}
+{"ko_number":"K01315","target_name":["Plasmin"]}
+{"ko_number":"K01320","target_name":["F7a"]}
+{"ko_number":"K01321","target_name":["F9*","F9","F9a"]}
+{"ko_number":"K01324","target_name":["KLKB1"]}
+{"ko_number":"K01328","target_name":["F12a"]}
+{"ko_number":"K01330","target_name":["C1R"]}
+{"ko_number":"K01331","target_name":["C1S"]}
+{"ko_number":"K01334","target_name":["CFD"]}
+{"ko_number":"K01335","target_name":["CFB"]}
+{"ko_number":"K01343","target_name":["PLAT"]}
+{"ko_number":"K01380","target_name":["REN"]}
+{"ko_number":"K01389","target_name":["MME"]}
+{"ko_number":"K01428","target_name":["urease"]}
+{"ko_number":"K01476","target_name":["ARG1*"]}
+{"ko_number":"K01488","target_name":["ADA","ADA*"]}
+{"ko_number":"K01537","target_name":["Plasmodium falciparum ATP2C"]}
+{"ko_number":"K01539","target_name":["ATP1A"]}
+{"ko_number":"K01542","target_name":["ATP4"]}
+{"ko_number":"K01543","target_name":["ATP4"]}
+{"ko_number":"K01562","target_name":["DIO1"]}
+{"ko_number":"K01581","target_name":["ODC1"]}
+{"ko_number":"K01590","target_name":["HDC"]}
+{"ko_number":"K01593","target_name":["DDC*"]}
+{"ko_number":"K01611","target_name":["AMD1"]}
+{"ko_number":"K01648","target_name":["ACLY"]}
+{"ko_number":"K01672","target_name":["CA"]}
+{"ko_number":"K01775","target_name":["alanine racemase"]}
+{"ko_number":"K01832","target_name":["TBXAS1"]}
+{"ko_number":"K01870","target_name":["isoleucine tRNA ligase"]}
+{"ko_number":"K01921","target_name":["D-alanine-D-alanine ligase"]}
+{"ko_number":"K01948","target_name":["CPS1"]}
+{"ko_number":"K02089","target_name":["CDK4\/6"]}
+{"ko_number":"K02091","target_name":["CDK4\/6"]}
+{"ko_number":"K02110","target_name":["ATP synthase subunit C"]}
+{"ko_number":"K02161","target_name":["BCL2","BCL2*"]}
+{"ko_number":"K02162","target_name":["BCL2L"]}
+{"ko_number":"K02163","target_name":["BCL2L"]}
+{"ko_number":"K02469","target_name":["DNA gyrase"]}
+{"ko_number":"K02470","target_name":["DNA gyrase"]}
+{"ko_number":"K02539","target_name":["MCL1","BCL2L"]}
+{"ko_number":"K02582","target_name":["NGF"]}
+{"ko_number":"K02583","target_name":["NGFR"]}
+{"ko_number":"K02621","target_name":["topoisomerase IV"]}
+{"ko_number":"K02622","target_name":["topoisomerase IV"]}
+{"ko_number":"K02737","target_name":["PSMB5"]}
+{"ko_number":"K03040","target_name":["DNA-directed RNA polymerase"]}
+{"ko_number":"K03043","target_name":["Clostridioides difficile DNA-directed RNA polymerase","DNA-directed RNA polymerase subunit beta","DNA-directed RNA polymerase"]}
+{"ko_number":"K03046","target_name":["Clostridioides difficile DNA-directed RNA polymerase","DNA-directed RNA polymerase subunit beta","DNA-directed RNA polymerase"]}
+{"ko_number":"K03156","target_name":["TNF"]}
+{"ko_number":"K03158","target_name":["TNFRSF1"]}
+{"ko_number":"K03163","target_name":["TOP1"]}
+{"ko_number":"K03164","target_name":["TOP2"]}
+{"ko_number":"K03176","target_name":["NTRK1*","NTRK","NTRK1"]}
+{"ko_number":"K03898","target_name":["KNG1"]}
+{"ko_number":"K03899","target_name":["F8*","F8"]}
+{"ko_number":"K03900","target_name":["VWF*","VWF"]}
+{"ko_number":"K03901","target_name":["F3"]}
+{"ko_number":"K03909","target_name":["TFPI"]}
+{"ko_number":"K03911","target_name":["SERPINC1"]}
+{"ko_number":"K03912","target_name":["SERPIND1"]}
+{"ko_number":"K03914","target_name":["F2R"]}
+{"ko_number":"K03916","target_name":["BDKRB2"]}
+{"ko_number":"K03984","target_name":["SERPINA1"]}
+{"ko_number":"K03990","target_name":["C3"]}
+{"ko_number":"K03994","target_name":["C5"]}
+{"ko_number":"K04010","target_name":["C5AR1"]}
+{"ko_number":"K04129","target_name":["CHRM","CHRM1"]}
+{"ko_number":"K04130","target_name":["CHRM2","CHRM"]}
+{"ko_number":"K04131","target_name":["CHRM3","CHRM"]}
+{"ko_number":"K04132","target_name":["CHRM"]}
+{"ko_number":"K04133","target_name":["CHRM"]}
+{"ko_number":"K04135","target_name":["ADRA1","ADRA1A"]}
+{"ko_number":"K04136","target_name":["ADRA1"]}
+{"ko_number":"K04137","target_name":["ADRA1"]}
+{"ko_number":"K04138","target_name":["ADRA2A","ADRA2"]}
+{"ko_number":"K04139","target_name":["ADRA2"]}
+{"ko_number":"K04140","target_name":["ADRA2"]}
+{"ko_number":"K04141","target_name":["ADRB","ADRB1"]}
+{"ko_number":"K04142","target_name":["ADRB","ADRB2"]}
+{"ko_number":"K04143","target_name":["ADRB3","ADRB"]}
+{"ko_number":"K04144","target_name":["DRD","DRD1"]}
+{"ko_number":"K04145","target_name":["DRD","DRD2"]}
+{"ko_number":"K04146","target_name":["DRD","DRD3"]}
+{"ko_number":"K04147","target_name":["DRD","DRD4"]}
+{"ko_number":"K04149","target_name":["HRH1"]}
+{"ko_number":"K04150","target_name":["HRH2"]}
+{"ko_number":"K04151","target_name":["HRH3"]}
+{"ko_number":"K04153","target_name":["HTR1","HTR1F","HTR1B","HTR1D","HTR1A"]}
+{"ko_number":"K04157","target_name":["HTR2","HTR2C","HTR2A"]}
+{"ko_number":"K04160","target_name":["HTR4"]}
+{"ko_number":"K04162","target_name":["HTR6"]}
+{"ko_number":"K04163","target_name":["HTR7"]}
+{"ko_number":"K04166","target_name":["AGTR1"]}
+{"ko_number":"K04167","target_name":["AGTR2"]}
+{"ko_number":"K04179","target_name":["CCR4"]}
+{"ko_number":"K04180","target_name":["CCR5"]}
+{"ko_number":"K04189","target_name":["CXCR4"]}
+{"ko_number":"K04194","target_name":["CCKAR"]}
+{"ko_number":"K04195","target_name":["CCKBR"]}
+{"ko_number":"K04197","target_name":["EDNRA","EDNR"]}
+{"ko_number":"K04198","target_name":["EDNR"]}
+{"ko_number":"K04199","target_name":["MC1R"]}
+{"ko_number":"K04200","target_name":["MC2R"]}
+{"ko_number":"K04202","target_name":["MC4R"]}
+{"ko_number":"K04213","target_name":["OPRD1"]}
+{"ko_number":"K04214","target_name":["OPRK1"]}
+{"ko_number":"K04215","target_name":["OPRM1"]}
+{"ko_number":"K04217","target_name":["SSTR1","SSTR"]}
+{"ko_number":"K04218","target_name":["SSTR","SSTR2"]}
+{"ko_number":"K04219","target_name":["SSTR3","SSTR"]}
+{"ko_number":"K04220","target_name":["SSTR"]}
+{"ko_number":"K04221","target_name":["SSTR5","SSTR"]}
+{"ko_number":"K04222","target_name":["TACR1"]}
+{"ko_number":"K04224","target_name":["TACR3"]}
+{"ko_number":"K04226","target_name":["AVPR1A","AVPR1"]}
+{"ko_number":"K04227","target_name":["AVPR1"]}
+{"ko_number":"K04228","target_name":["AVPR2"]}
+{"ko_number":"K04229","target_name":["OXTR"]}
+{"ko_number":"K04238","target_name":["HCRTR"]}
+{"ko_number":"K04239","target_name":["HCRTR"]}
+{"ko_number":"K04247","target_name":["FSHR"]}
+{"ko_number":"K04248","target_name":["LHCGR"]}
+{"ko_number":"K04258","target_name":["PTGER1"]}
+{"ko_number":"K04259","target_name":["PTGER2"]}
+{"ko_number":"K04260","target_name":["PTGER3"]}
+{"ko_number":"K04261","target_name":["PTGER4"]}
+{"ko_number":"K04262","target_name":["PTGFR"]}
+{"ko_number":"K04263","target_name":["PTGIR"]}
+{"ko_number":"K04264","target_name":["TBXA2R"]}
+{"ko_number":"K04265","target_name":["ADORA1","ADORA"]}
+{"ko_number":"K04266","target_name":["ADORA2A","ADORA2","ADORA"]}
+{"ko_number":"K04267","target_name":["ADORA2B","ADORA2","ADORA"]}
+{"ko_number":"K04268","target_name":["ADORA"]}
+{"ko_number":"K04269","target_name":["P2RY2"]}
+{"ko_number":"K04277","target_name":["CNR","CNR1"]}
+{"ko_number":"K04278","target_name":["CNR"]}
+{"ko_number":"K04280","target_name":["GNRHR"]}
+{"ko_number":"K04282","target_name":["TRHR"]}
+{"ko_number":"K04284","target_name":["GHSR"]}
+{"ko_number":"K04285","target_name":["MTNR1"]}
+{"ko_number":"K04286","target_name":["MTNR1"]}
+{"ko_number":"K04288","target_name":["S1PR1","S1PR"]}
+{"ko_number":"K04290","target_name":["S1PR"]}
+{"ko_number":"K04292","target_name":["S1PR"]}
+{"ko_number":"K04293","target_name":["S1PR4","S1PR"]}
+{"ko_number":"K04295","target_name":["S1PR5","S1PR"]}
+{"ko_number":"K04298","target_name":["P2RY12"]}
+{"ko_number":"K04306","target_name":["RXFP1"]}
+{"ko_number":"K04322","target_name":["CYSLTR1"]}
+{"ko_number":"K04348","target_name":["PPP3C\/PPP3R\/CHP"]}
+{"ko_number":"K04360","target_name":["NTRK","NTRK2"]}
+{"ko_number":"K04361","target_name":["EGFR","EGFR*"]}
+{"ko_number":"K04362","target_name":["FGFR1"]}
+{"ko_number":"K04363","target_name":["PDGFR","FIP1L1-PDGFRA","PDGFRA*","PDGFRA"]}
+{"ko_number":"K04365","target_name":["BRAF*","BRAF"]}
+{"ko_number":"K04366","target_name":["RAF1"]}
+{"ko_number":"K04368","target_name":["MAP2K","MAP2K1"]}
+{"ko_number":"K04369","target_name":["MAP2K2","MAP2K"]}
+{"ko_number":"K04380","target_name":["MAPT"]}
+{"ko_number":"K04383","target_name":["IL1","IL1A"]}
+{"ko_number":"K04386","target_name":["IL1R"]}
+{"ko_number":"K04387","target_name":["IL1R"]}
+{"ko_number":"K04392","target_name":["RAC1"]}
+{"ko_number":"K04447","target_name":["JAK2","JAK2*"]}
+{"ko_number":"K04456","target_name":["AKT"]}
+{"ko_number":"K04503","target_name":["CCND1"]}
+{"ko_number":"K04505","target_name":["PSEN1\/PSENEN\/NCSTN\/APH1A"]}
+{"ko_number":"K04514","target_name":["ROCK"]}
+{"ko_number":"K04519","target_name":["IL1B","IL1"]}
+{"ko_number":"K04520","target_name":["Amyloid beta"]}
+{"ko_number":"K04527","target_name":["INSR"]}
+{"ko_number":"K04565","target_name":["SOD1*"]}
+{"ko_number":"K04570","target_name":["BCL2L"]}
+{"ko_number":"K04576","target_name":["CALCR"]}
+{"ko_number":"K04577","target_name":["CALCRL"]}
+{"ko_number":"K04578","target_name":["CRHR"]}
+{"ko_number":"K04579","target_name":["CRHR"]}
+{"ko_number":"K04580","target_name":["GIPR"]}
+{"ko_number":"K04581","target_name":["GLP1R"]}
+{"ko_number":"K04582","target_name":["GLP2R"]}
+{"ko_number":"K04583","target_name":["GCGR"]}
+{"ko_number":"K04584","target_name":["GHRHR"]}
+{"ko_number":"K04585","target_name":["PTH1R"]}
+{"ko_number":"K04586","target_name":["PTH2R"]}
+{"ko_number":"K04588","target_name":["SCTR"]}
+{"ko_number":"K04612","target_name":["CASR"]}
+{"ko_number":"K04615","target_name":["GABBR"]}
+{"ko_number":"K04621","target_name":["GPRC5D"]}
+{"ko_number":"K04670","target_name":["ACVR2A"]}
+{"ko_number":"K04671","target_name":["BMPR2"]}
+{"ko_number":"K04675","target_name":["ACVR1"]}
+{"ko_number":"K04687","target_name":["IFNG"]}
+{"ko_number":"K04737","target_name":["IL3RA"]}
+{"ko_number":"K04803","target_name":["CHRN"]}
+{"ko_number":"K04804","target_name":["CHRN"]}
+{"ko_number":"K04805","target_name":["CHRN"]}
+{"ko_number":"K04806","target_name":["CHRN","CHRNA4\/CHRNB2"]}
+{"ko_number":"K04807","target_name":["CHRN"]}
+{"ko_number":"K04808","target_name":["CHRN"]}
+{"ko_number":"K04809","target_name":["CHRN"]}
+{"ko_number":"K04810","target_name":["CHRN"]}
+{"ko_number":"K04811","target_name":["CHRN","CHRNA10"]}
+{"ko_number":"K04812","target_name":["CHRN"]}
+{"ko_number":"K04813","target_name":["CHRNA4\/CHRNB2","CHRN"]}
+{"ko_number":"K04814","target_name":["CHRN"]}
+{"ko_number":"K04815","target_name":["CHRN"]}
+{"ko_number":"K04816","target_name":["CHRN"]}
+{"ko_number":"K04817","target_name":["CHRN"]}
+{"ko_number":"K04818","target_name":["CHRN"]}
+{"ko_number":"K04819","target_name":["HTR3","HTR3A","HTR3B"]}
+{"ko_number":"K04824","target_name":["SCNN1"]}
+{"ko_number":"K04825","target_name":["SCNN1"]}
+{"ko_number":"K04827","target_name":["SCNN1"]}
+{"ko_number":"K04833","target_name":["SCN1A"]}
+{"ko_number":"K04834","target_name":["SCN2A","voltage-gated sodium channel"]}
+{"ko_number":"K04836","target_name":["SCN3A"]}
+{"ko_number":"K04837","target_name":["SCN4A"]}
+{"ko_number":"K04838","target_name":["SCN5A"]}
+{"ko_number":"K04840","target_name":["SCN8A"]}
+{"ko_number":"K04841","target_name":["SCN9A"]}
+{"ko_number":"K04842","target_name":["SCN10A"]}
+{"ko_number":"K04843","target_name":["SCN11A"]}
+{"ko_number":"K04849","target_name":["CACNA1B"]}
+{"ko_number":"K04850","target_name":["CACNA1-L"]}
+{"ko_number":"K04851","target_name":["CACNA1-L"]}
+{"ko_number":"K04853","target_name":["CACNA1-L"]}
+{"ko_number":"K04854","target_name":["CACNA1-T"]}
+{"ko_number":"K04855","target_name":["CACNA1-T"]}
+{"ko_number":"K04856","target_name":["CACNA1-T"]}
+{"ko_number":"K04857","target_name":["CACNA1S","CACNA1-L"]}
+{"ko_number":"K04858","target_name":["CACNA2D1","CACNA2D"]}
+{"ko_number":"K04859","target_name":["CACNA2D2","CACNA2D"]}
+{"ko_number":"K04860","target_name":["CACNA2D"]}
+{"ko_number":"K04861","target_name":["CACNA2D"]}
+{"ko_number":"K04874","target_name":["KCNA","KCNA1"]}
+{"ko_number":"K04875","target_name":["KCNA"]}
+{"ko_number":"K04876","target_name":["KCNA"]}
+{"ko_number":"K04877","target_name":["KCNA"]}
+{"ko_number":"K04878","target_name":["KCNA","KCNA5"]}
+{"ko_number":"K04879","target_name":["KCNA"]}
+{"ko_number":"K04880","target_name":["KCNA"]}
+{"ko_number":"K04881","target_name":["KCNA"]}
+{"ko_number":"K04893","target_name":["KCND3"]}
+{"ko_number":"K04905","target_name":["KCNH2"]}
+{"ko_number":"K04926","target_name":["KCNQ1","KCNQ"]}
+{"ko_number":"K04927","target_name":["KCNQ"]}
+{"ko_number":"K04928","target_name":["KCNQ"]}
+{"ko_number":"K04929","target_name":["KCNQ"]}
+{"ko_number":"K04930","target_name":["KCNQ"]}
+{"ko_number":"K04954","target_name":["HCN"]}
+{"ko_number":"K04955","target_name":["HCN"]}
+{"ko_number":"K04956","target_name":["HCN"]}
+{"ko_number":"K04957","target_name":["HCN"]}
+{"ko_number":"K04995","target_name":["KCNJ1"]}
+{"ko_number":"K04997","target_name":["KCNJ3"]}
+{"ko_number":"K04999","target_name":["KCNJ5"]}
+{"ko_number":"K05001","target_name":["KCNJ8"]}
+{"ko_number":"K05004","target_name":["ABCC8 \/KCNJ11","KCNJ11","ABCC9 \/KCNJ11"]}
+{"ko_number":"K05005","target_name":["KCNJ12"]}
+{"ko_number":"K05011","target_name":["CLCN2"]}
+{"ko_number":"K05031","target_name":["CFTR*","CFTR"]}
+{"ko_number":"K05032","target_name":["ABCC8 \/KCNJ11","ABCC8"]}
+{"ko_number":"K05033","target_name":["ABCC9 \/KCNJ11"]}
+{"ko_number":"K05034","target_name":["SLC6A1"]}
+{"ko_number":"K05035","target_name":["SLC6A2"]}
+{"ko_number":"K05036","target_name":["SLC6A3"]}
+{"ko_number":"K05037","target_name":["SLC6A4"]}
+{"ko_number":"K05055","target_name":["IL6R"]}
+{"ko_number":"K05056","target_name":["IL11RA"]}
+{"ko_number":"K05061","target_name":["CSF3R"]}
+{"ko_number":"K05062","target_name":["LEPR"]}
+{"ko_number":"K05066","target_name":["CSF2RA"]}
+{"ko_number":"K05067","target_name":["IL5RA"]}
+{"ko_number":"K05068","target_name":["IL2RA"]}
+{"ko_number":"K05069","target_name":["IL2RB"]}
+{"ko_number":"K05070","target_name":["IL2RG"]}
+{"ko_number":"K05071","target_name":["IL4R"]}
+{"ko_number":"K05079","target_name":["EPOR"]}
+{"ko_number":"K05080","target_name":["GHR"]}
+{"ko_number":"K05082","target_name":["MPL"]}
+{"ko_number":"K05083","target_name":["ERBB2","ERBB2*"]}
+{"ko_number":"K05084","target_name":["ERBB3"]}
+{"ko_number":"K05085","target_name":["ERBB4"]}
+{"ko_number":"K05087","target_name":["IGF1R"]}
+{"ko_number":"K05088","target_name":["ROS1*"]}
+{"ko_number":"K05089","target_name":["PDGFR","PDGFRB"]}
+{"ko_number":"K05090","target_name":["CSF1R"]}
+{"ko_number":"K05091","target_name":["KIT*","KIT"]}
+{"ko_number":"K05092","target_name":["FLT3","FLT3*"]}
+{"ko_number":"K05093","target_name":["FGFR2*","FGFR2"]}
+{"ko_number":"K05094","target_name":["FGFR3","FGFR3*"]}
+{"ko_number":"K05096","target_name":["VEGFR1"]}
+{"ko_number":"K05097","target_name":["VEGFR3"]}
+{"ko_number":"K05098","target_name":["VEGFR2"]}
+{"ko_number":"K05099","target_name":["MET*","MET"]}
+{"ko_number":"K05101","target_name":["NTRK","NTRK3"]}
+{"ko_number":"K05115","target_name":["AXL"]}
+{"ko_number":"K05119","target_name":["EML4-ALK","ALK"]}
+{"ko_number":"K05126","target_name":["RET*"]}
+{"ko_number":"K05130","target_name":["IFNAR1"]}
+{"ko_number":"K05131","target_name":["IFNAR2"]}
+{"ko_number":"K05132","target_name":["IFNGR1"]}
+{"ko_number":"K05133","target_name":["IFNGR2"]}
+{"ko_number":"K05141","target_name":["TNFRSF1"]}
+{"ko_number":"K05145","target_name":["TNFRSF8"]}
+{"ko_number":"K05153","target_name":["TNFRSF17"]}
+{"ko_number":"K05164","target_name":["IL17RA"]}
+{"ko_number":"K05172","target_name":["IL1RL2"]}
+{"ko_number":"K05175","target_name":["GABA-gated chloride channel","GABR","GABRA1"]}
+{"ko_number":"K05181","target_name":["GABA-gated chloride channel","GABR"]}
+{"ko_number":"K05184","target_name":["GABR"]}
+{"ko_number":"K05185","target_name":["GABR"]}
+{"ko_number":"K05186","target_name":["GABR"]}
+{"ko_number":"K05189","target_name":["GABR"]}
+{"ko_number":"K05192","target_name":["GABR"]}
+{"ko_number":"K05195","target_name":["GABA-gated chloride channel"]}
+{"ko_number":"K05197","target_name":["GRIA"]}
+{"ko_number":"K05198","target_name":["GRIA"]}
+{"ko_number":"K05199","target_name":["GRIA"]}
+{"ko_number":"K05200","target_name":["GRIA"]}
+{"ko_number":"K05208","target_name":["GRIN"]}
+{"ko_number":"K05209","target_name":["GRIN"]}
+{"ko_number":"K05210","target_name":["GRIN"]}
+{"ko_number":"K05211","target_name":["GRIN"]}
+{"ko_number":"K05212","target_name":["GRIN"]}
+{"ko_number":"K05213","target_name":["GRIN"]}
+{"ko_number":"K05214","target_name":["GRIN"]}
+{"ko_number":"K05217","target_name":["P2RX3"]}
+{"ko_number":"K05222","target_name":["TRPV1"]}
+{"ko_number":"K05273","target_name":["glutamate-gated chloride channel"]}
+{"ko_number":"K05357","target_name":["VKORC1"]}
+{"ko_number":"K05404","target_name":["TLR7"]}
+{"ko_number":"K05405","target_name":["IL6"]}
+{"ko_number":"K05406","target_name":["IL12"]}
+{"ko_number":"K05412","target_name":["CD80"]}
+{"ko_number":"K05413","target_name":["CD86"]}
+{"ko_number":"K05414","target_name":["IFNA2"]}
+{"ko_number":"K05425","target_name":["IL12"]}
+{"ko_number":"K05426","target_name":["IL23A"]}
+{"ko_number":"K05428","target_name":["IL5"]}
+{"ko_number":"K05435","target_name":["IL13"]}
+{"ko_number":"K05436","target_name":["TSLP"]}
+{"ko_number":"K05443","target_name":["IL10"]}
+{"ko_number":"K05448","target_name":["VEGFA"]}
+{"ko_number":"K05459","target_name":["IGF1"]}
+{"ko_number":"K05466","target_name":["ANGPT2"]}
+{"ko_number":"K05473","target_name":["TNFSF11"]}
+{"ko_number":"K05476","target_name":["TNFSF13B"]}
+{"ko_number":"K05489","target_name":["IL17A"]}
+{"ko_number":"K05494","target_name":["IL17F"]}
+{"ko_number":"K05547","target_name":["NR1A"]}
+{"ko_number":"K05638","target_name":["NFE2L2"]}
+{"ko_number":"K05675","target_name":["ABCD1"]}
+{"ko_number":"K05697","target_name":["protein tyrosine phosphatase"]}
+{"ko_number":"K05704","target_name":["SRC"]}
+{"ko_number":"K05718","target_name":["ITGAL"]}
+{"ko_number":"K05771","target_name":["NR3C1"]}
+{"ko_number":"K05840","target_name":["DRD"]}
+{"ko_number":"K05855","target_name":["SYK"]}
+{"ko_number":"K05917","target_name":["sterol 14alpha-demethylase"]}
+{"ko_number":"K05954","target_name":["FNT"]}
+{"ko_number":"K05955","target_name":["FNT"]}
+{"ko_number":"K06051","target_name":["DLL3"]}
+{"ko_number":"K06067","target_name":["HDAC","HDAC2","HDAC1"]}
+{"ko_number":"K06087","target_name":["CLDN18"]}
+{"ko_number":"K06153","target_name":["undecaprenyl-diphosphate phosphatase"]}
+{"ko_number":"K06170","target_name":["PSEN1\/PSENEN\/NCSTN\/APH1A"]}
+{"ko_number":"K06171","target_name":["PSEN1\/PSENEN\/NCSTN\/APH1A"]}
+{"ko_number":"K06172","target_name":["PSEN1\/PSENEN\/NCSTN\/APH1A"]}
+{"ko_number":"K06226","target_name":["SMO"]}
+{"ko_number":"K06258","target_name":["SV2A"]}
+{"ko_number":"K06268","target_name":["PPP3C\/PPP3R\/CHP"]}
+{"ko_number":"K06449","target_name":["CD2"]}
+{"ko_number":"K06450","target_name":["CD3"]}
+{"ko_number":"K06451","target_name":["CD3E","CD3"]}
+{"ko_number":"K06452","target_name":["CD3"]}
+{"ko_number":"K06454","target_name":["CD4"]}
+{"ko_number":"K06455","target_name":["CD5"]}
+{"ko_number":"K06457","target_name":["CD7"]}
+{"ko_number":"K06458","target_name":["CD8"]}
+{"ko_number":"K06459","target_name":["CD8"]}
+{"ko_number":"K06465","target_name":["CD19"]}
+{"ko_number":"K06466","target_name":["CD20"]}
+{"ko_number":"K06467","target_name":["CD22"]}
+{"ko_number":"K06473","target_name":["CD33"]}
+{"ko_number":"K06474","target_name":["CD34"]}
+{"ko_number":"K06476","target_name":["ITGA2B\/ITGB3"]}
+{"ko_number":"K06483","target_name":["ITGA4","ITGA4\/ITGB7"]}
+{"ko_number":"K06488","target_name":["CD52"]}
+{"ko_number":"K06492","target_name":["CD58"]}
+{"ko_number":"K06493","target_name":["ITGA2B\/ITGB3"]}
+{"ko_number":"K06496","target_name":["SELP"]}
+{"ko_number":"K06499","target_name":["CEACAM"]}
+{"ko_number":"K06507","target_name":["CD79B"]}
+{"ko_number":"K06538","target_name":["CTLA4"]}
+{"ko_number":"K06560","target_name":["MRC1"]}
+{"ko_number":"K06568","target_name":["MUC1"]}
+{"ko_number":"K06582","target_name":["CD244"]}
+{"ko_number":"K06590","target_name":["ITGA4\/ITGB7"]}
+{"ko_number":"K06593","target_name":["PVRL4"]}
+{"ko_number":"K06619","target_name":["BCR-ABL","ABL1"]}
+{"ko_number":"K06733","target_name":["SLAMF7"]}
+{"ko_number":"K06737","target_name":["EPCAM"]}
+{"ko_number":"K06744","target_name":["PDCD1"]}
+{"ko_number":"K06745","target_name":["PDL1"]}
+{"ko_number":"K06751","target_name":["MHC1"]}
+{"ko_number":"K06752","target_name":["MHC2"]}
+{"ko_number":"K07198","target_name":["AMPK"]}
+{"ko_number":"K07203","target_name":["MTOR"]}
+{"ko_number":"K07294","target_name":["NR1C1"]}
+{"ko_number":"K07370","target_name":["BTK"]}
+{"ko_number":"K07374","target_name":["tubulin alpha"]}
+{"ko_number":"K07375","target_name":["tubulin beta","TUBB"]}
+{"ko_number":"K07433","target_name":["CYP11B2"]}
+{"ko_number":"K07434","target_name":["CYP19A1"]}
+{"ko_number":"K07827","target_name":["KRAS*"]}
+{"ko_number":"K08089","target_name":["FCER1A"]}
+{"ko_number":"K08155","target_name":["SLC18A1","SLC18A2"]}
+{"ko_number":"K08207","target_name":["SLC22A11"]}
+{"ko_number":"K08208","target_name":["SLC22A12"]}
+{"ko_number":"K08362","target_name":["NR1A"]}
+{"ko_number":"K08524","target_name":["NR2B"]}
+{"ko_number":"K08525","target_name":["NR2B","NR2B2"]}
+{"ko_number":"K08526","target_name":["NR2B","NR2B3"]}
+{"ko_number":"K08527","target_name":["NR1B","PML-RARA"]}
+{"ko_number":"K08528","target_name":["NR1B","NR1B2"]}
+{"ko_number":"K08529","target_name":["NR1B","NR1B3"]}
+{"ko_number":"K08530","target_name":["NR1C3"]}
+{"ko_number":"K08537","target_name":["NR1H4"]}
+{"ko_number":"K08539","target_name":["NR1I1"]}
+{"ko_number":"K08550","target_name":["NR3A1*","NR3A1","NR3A"]}
+{"ko_number":"K08551","target_name":["NR3A"]}
+{"ko_number":"K08555","target_name":["NR3C2"]}
+{"ko_number":"K08556","target_name":["NR3C3"]}
+{"ko_number":"K08557","target_name":["NR3C4"]}
+{"ko_number":"K08627","target_name":["ADAMTS13"]}
+{"ko_number":"K08759","target_name":["APOC3"]}
+{"ko_number":"K08871","target_name":["BRD2"]}
+{"ko_number":"K08960","target_name":["CSNK1E"]}
+{"ko_number":"K09093","target_name":["AHR"]}
+{"ko_number":"K09095","target_name":["HIF2A"]}
+{"ko_number":"K09592","target_name":["EGLN"]}
+{"ko_number":"K10054","target_name":["PML-RARA"]}
+{"ko_number":"K10160","target_name":["TLR4"]}
+{"ko_number":"K10165","target_name":["NOD2"]}
+{"ko_number":"K10366","target_name":["DMD","DMD*"]}
+{"ko_number":"K10456","target_name":["KEAP1"]}
+{"ko_number":"K10798","target_name":["PARP3","PARP"]}
+{"ko_number":"K10807","target_name":["RRM1"]}
+{"ko_number":"K10808","target_name":["RRM2"]}
+{"ko_number":"K10951","target_name":["SLC12A2"]}
+{"ko_number":"K11030","target_name":["protective antigen"]}
+{"ko_number":"K11063","target_name":["Clostridioides difficile toxin B"]}
+{"ko_number":"K11126","target_name":["TERT"]}
+{"ko_number":"K11158","target_name":["RPE65"]}
+{"ko_number":"K11217","target_name":["JAK1"]}
+{"ko_number":"K11218","target_name":["JAK3"]}
+{"ko_number":"K11219","target_name":["TYK2"]}
+{"ko_number":"K11385","target_name":["arabinosyltransferase"]}
+{"ko_number":"K11386","target_name":["arabinosyltransferase"]}
+{"ko_number":"K11387","target_name":["arabinosyltransferase"]}
+{"ko_number":"K11404","target_name":["HDAC","HDAC3"]}
+{"ko_number":"K11405","target_name":["HDAC"]}
+{"ko_number":"K11406","target_name":["HDAC"]}
+{"ko_number":"K11407","target_name":["HDAC"]}
+{"ko_number":"K11408","target_name":["HDAC"]}
+{"ko_number":"K11409","target_name":["HDAC"]}
+{"ko_number":"K11418","target_name":["HDAC"]}
+{"ko_number":"K11430","target_name":["EZH2*","EZH2"]}
+{"ko_number":"K11517","target_name":["HAO1"]}
+{"ko_number":"K11611","target_name":["enoyl-[acyl-carrier-protein] reductase"]}
+{"ko_number":"K11721","target_name":["BRD3"]}
+{"ko_number":"K11722","target_name":["BRD4"]}
+{"ko_number":"K11987","target_name":["PTGS2"]}
+{"ko_number":"K12040","target_name":["SLC9A3"]}
+{"ko_number":"K12311","target_name":["MAN2B1*"]}
+{"ko_number":"K12316","target_name":["GAA*","GAA"]}
+{"ko_number":"K12318","target_name":["GUCY1A"]}
+{"ko_number":"K12319","target_name":["GUCY1B"]}
+{"ko_number":"K12320","target_name":["GUCY2C"]}
+{"ko_number":"K12323","target_name":["NPR1","NPR"]}
+{"ko_number":"K12324","target_name":["NPR2","NPR"]}
+{"ko_number":"K12332","target_name":["CALCA"]}
+{"ko_number":"K12343","target_name":["SRD5A1"]}
+{"ko_number":"K12344","target_name":["SRD5A2"]}
+{"ko_number":"K12350","target_name":["SMPD1*"]}
+{"ko_number":"K12406","target_name":["PKLR"]}
+{"ko_number":"K12407","target_name":["GCK"]}
+{"ko_number":"K13050","target_name":["PCSK9"]}
+{"ko_number":"K13129","target_name":["SMN2","SMN1"]}
+{"ko_number":"K13293","target_name":["PDE4","PDE4A","PDE"]}
+{"ko_number":"K13296","target_name":["PDE3","PDE"]}
+{"ko_number":"K13298","target_name":["PDE"]}
+{"ko_number":"K13524","target_name":["ABAT"]}
+{"ko_number":"K13596","target_name":["ACVR2B"]}
+{"ko_number":"K13649","target_name":["FOLR","FOLR1"]}
+{"ko_number":"K13755","target_name":["PDE"]}
+{"ko_number":"K13762","target_name":["PDE5"]}
+{"ko_number":"K13822","target_name":["HBA"]}
+{"ko_number":"K13938","target_name":["dihydrofolate reductase"]}
+{"ko_number":"K13951","target_name":["ADH"]}
+{"ko_number":"K13998","target_name":["dihydrofolate reductase"]}
+{"ko_number":"K14073","target_name":["PNLIP"]}
+{"ko_number":"K14074","target_name":["PNLIP"]}
+{"ko_number":"K14075","target_name":["PNLIP"]}
+{"ko_number":"K14158","target_name":["SLC5A1"]}
+{"ko_number":"K14290","target_name":["XPO1"]}
+{"ko_number":"K14342","target_name":["SLC10A2"]}
+{"ko_number":"K14382","target_name":["SLC5A2"]}
+{"ko_number":"K14425","target_name":["SLC12A1"]}
+{"ko_number":"K14426","target_name":["SLC12A3"]}
+{"ko_number":"K14427","target_name":["SLC12A4"]}
+{"ko_number":"K14461","target_name":["NPC1L1"]}
+{"ko_number":"K14462","target_name":["APOB"]}
+{"ko_number":"K14463","target_name":["MTTP"]}
+{"ko_number":"K14592","target_name":["FOLH1"]}
+{"ko_number":"K14624","target_name":["CCL2"]}
+{"ko_number":"K15014","target_name":["SLC29A1"]}
+{"ko_number":"K15680","target_name":["HSD11B1"]}
+{"ko_number":"K16533","target_name":["CEP290"]}
+{"ko_number":"K16628","target_name":["COL7A1"]}
+{"ko_number":"K16834","target_name":["SOST"]}
+{"ko_number":"K17288","target_name":["TACSTD2"]}
+{"ko_number":"K17388","target_name":["ROCK","ROCK2"]}
+{"ko_number":"K17398","target_name":["DNMT"]}
+{"ko_number":"K17399","target_name":["DNMT"]}
+{"ko_number":"K17610","target_name":["PPP3C\/PPP3R\/CHP"]}
+{"ko_number":"K17611","target_name":["PPP3C\/PPP3R\/CHP"]}
+{"ko_number":"K17689","target_name":["CYP3A"]}
+{"ko_number":"K17690","target_name":["CYP3A"]}
+{"ko_number":"K17691","target_name":["CYP3A"]}
+{"ko_number":"K17692","target_name":["CYP3A"]}
+{"ko_number":"K17751","target_name":["MYH7"]}
+{"ko_number":"K17904","target_name":["DIO2"]}
+{"ko_number":"K18211","target_name":["SNAP25"]}
+{"ko_number":"K18245","target_name":["CA2","CA"]}
+{"ko_number":"K18246","target_name":["CA"]}
+{"ko_number":"K18283","target_name":["PDE2A","PDE"]}
+{"ko_number":"K18436","target_name":["PDE"]}
+{"ko_number":"K18437","target_name":["PDE"]}
+{"ko_number":"K18438","target_name":["PDE"]}
+{"ko_number":"K18671","target_name":["HDAC10","HDAC"]}
+{"ko_number":"K18964","target_name":["HSV1 DNA polymerase","HCMV DNA polymerase","Herpesvirus DNA polymerase"]}
+{"ko_number":"K19021","target_name":["PDE3","PDE"]}
+{"ko_number":"K19261","target_name":["RSV F protein"]}
+{"ko_number":"K19302","target_name":["undecaprenyl-diphosphate phosphatase"]}
+{"ko_number":"K19376","target_name":["Paramyxoviridae RNA-directed RNA polymerase L"]}
+{"ko_number":"K19389","target_name":["Influenza A virus RNA-directed RNA polymerase"]}
+{"ko_number":"K19390","target_name":["Influenza A virus polymerase acidic protein"]}
+{"ko_number":"K19392","target_name":["Influenza A\/B virus neuraminidase"]}
+{"ko_number":"K19394","target_name":["Influenza A virus M2"]}
+{"ko_number":"K20414","target_name":["HAVCR2"]}
+{"ko_number":"K20719","target_name":["SIGMAR1"]}
+{"ko_number":"K20731","target_name":["TTR"]}
+{"ko_number":"K20967","target_name":["MOCS1*"]}
+{"ko_number":"K21037","target_name":["HBV reverse transcriptase"]}
+{"ko_number":"K21289","target_name":["PIK3CG"]}
+{"ko_number":"K22273","target_name":["HCV NS3\/4A protease"]}
+{"ko_number":"K22274","target_name":["HCV NS3\/4A protease"]}
+{"ko_number":"K22275","target_name":["HCV NS5A"]}
+{"ko_number":"K22288","target_name":["ANGPTL3"]}
+{"ko_number":"K22428","target_name":["FGF23"]}
+{"ko_number":"K22472","target_name":["HCV NS5B polymerase"]}
+{"ko_number":"K22599","target_name":["HIV protease"]}
+{"ko_number":"K22630","target_name":["IL31RA"]}
+{"ko_number":"K22775","target_name":["HCMV IE2"]}
+{"ko_number":"K24019","target_name":["FCGRT"]}
+{"ko_number":"K24070","target_name":["PARP","PARP1"]}
+{"ko_number":"K24149","target_name":["SARS coronavirus replicase"]}
+{"ko_number":"K24152","target_name":["SARS-CoV-2 spike glycoprotein"]}
+{"ko_number":"K24266","target_name":["HIV-1 gp120"]}
+{"ko_number":"K24534","target_name":["Zaire ebolavirus glycoprotein GP1"]}
+{"ko_number":"K24801","target_name":["HIV-1 gp41"]}
+{"ko_number":"K24802","target_name":["HIV-1 reverse transcriptase"]}
+{"ko_number":"K24803","target_name":["HIV-1 integrase"]}
+{"ko_number":"K24958","target_name":["Varicella zoster virus surface glycoprotein E"]}
+{"ko_number":"K25001","target_name":["SARS-CoV-2 spike glycoprotein S1"]}
+{"ko_number":"K25015","target_name":["SARS coronavirus 3C-like proteinase"]}
+{"ko_number":"K25235","target_name":["Herpesvirus helicase-primase complex"]}
+{"ko_number":"K25236","target_name":["Herpesvirus helicase-primase complex"]}
+{"ko_number":"K25237","target_name":["Herpesvirus helicase-primase complex"]}
+{"ko_number":"K25268","target_name":["Orthopoxvirus DNA polymerase"]}
+{"ko_number":"K25306","target_name":["HIV-1 capsid protein"]}
+{"ko_number":"K26102","target_name":["HCMV tegument serine\/threonine protein kinase"]}
+{"ko_number":"K26103","target_name":["HCMV DNA terminase complex"]}
+{"ko_number":"K26104","target_name":["HCMV DNA terminase complex"]}
+{"ko_number":"K26105","target_name":["HCMV DNA terminase complex"]}
+{"ko_number":"K28005","target_name":["PARP","PARP2"]}

@@ -1,0 +1,37 @@
+************************ The following adds ddinter and prescription from drugcalc
+
+CREATE CONSTRAINT drug_index IF NOT EXISTS FOR (c:Drug) REQUIRE c.drug_id IS UNIQUE
+;
+CREATE CONSTRAINT disease_index IF NOT EXISTS FOR (c:Disease) REQUIRE c.disease_id IS UNIQUE
+;
+CREATE CONSTRAINT target_index IF NOT EXISTS FOR (c:Target) REQUIRE c.target_id IS UNIQUE
+;
+
+
+
+CALL apoc.load.jsonArray("file:///diseases.json") YIELD value MERGE (c:Disease {disease_id: value.disease_id, name: head(value.disease_name), names: value.disease_name})
+;
+CALL apoc.load.jsonArray("file:///drugs.json") YIELD value MERGE (c:Drug {drug_id: value.kegg_id, name: coalesce(head(value.drug_name), ""), names: coalesce(value.drug_name, []), atc: value.atc_name})
+;
+CALL apoc.load.jsonArray("file:///targets.json") YIELD value MERGE (c:Target {target_id: value.ko_number, name: head(value.target_name), names: value.target_name})
+;
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///drug_disease.csv' AS row MERGE (p1:Drug {drug_id: row.drug_kegg_id}) MERGE (p2:Disease {disease_id: row.disease_id}) MERGE (p1)-[r:TREATS]->(p2)
+;
+LOAD CSV WITH HEADERS FROM 'file:///drug_target.csv' AS row MERGE (p1:Drug {drug_id: row.drug_kegg_id}) MERGE (p2:Target {target_id: row.target_ko_number}) MERGE (p1)-[r:TARGETS]->(p2)
+;
+
+
+
+
+DROP CONSTRAINT drug_index
+;
+DROP CONSTRAINT disease_index
+;
+DROP CONSTRAINT target_index
+;
+MATCH (n)
+DETACH DELETE n;
