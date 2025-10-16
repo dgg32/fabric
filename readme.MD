@@ -6,7 +6,7 @@
 
   
 
-This repository contains code and data for my article "[From Fabric Lakehouse to Neo4j Knowledge Graph: Mapping the KEGG Drug Database](https://dgg32.medium.com/tailor-a-multi-model-chatbot-for-a-multi-model-duckdb-8afb7ac4c1fa)".
+This repository contains code and data for my article "[From Fabric Lakehouse to Neo4j Knowledge Graph: Mapping the KEGG Drug Database](https://dgg32.medium.com/from-fabric-lakehouse-to-neo4j-knowledge-graph-mapping-the-kegg-drug-database-16f469cf2b68)".
 
 
 
